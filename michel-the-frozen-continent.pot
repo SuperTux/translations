@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/michel-the-frozen-continent/levels/monde/niveau1.stl:3
+msgid "In the Sky of the Night"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau10.stl:3
+msgid "Freezing Sky"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau11.stl:3
+msgid "High mountain paths"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:3
+msgid "Haunted Cave"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:139
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1262
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1695
+msgid ""
+"#An old legend says that this cave is haunted by evil spirits that would "
+"curse everyone that enter the cave. Never anyone went out of the cave alive!"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:144
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1267
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1700
+msgid "#Caution! It is strictly forbidden to enter the cave. Danger of Death!"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:149
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1272
+#: src/michel-the-frozen-continent/levels/monde/niveau2.stl:1705
+msgid ""
+"#According to the legend, the ghost that reigns on this cave would offer his "
+"treasure to anyone who manages to cross the cave and come out alive..."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau3.stl:3
+msgid "Nocturnal Floe"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau4.stl:3
+msgid "Deep Cavern"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau5.stl:3
+msgid "Freezing Dusk"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau6.stl:3
+msgid "Distant Ices"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau7.stl:3
+msgid "Always Higher"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau8.stl:3
+msgid "Magic Mountains"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:3
+msgid "Object Holder"
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:32
+msgid ""
+"#The blocks placed on the left can be moved by pressing on the Action key. "
+"Pile the blocks in order to go up on them, and jump over the wall."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:37
+msgid ""
+"#The trampoline placed on the right can be moved by pressing on the Action "
+"key. Put the trampoline in front of the wall to jump over the wall."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:355
+msgid ""
+"#The lantern placed to the left can be moved by pressing the Action key. The "
+"light of the lantern allows you to walk on the magic blocs."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:360
+msgid ""
+"#An ice block that walks can be caught and carried away. For that, jump on "
+"the ice block in order to immobilize it, then use the Action key to move it."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/niveau9.stl:365
+msgid ""
+"#The blocks of wood that obstruct the way to the right can be broken by "
+"throwing an ice block on it."
+msgstr ""
+
+#: src/michel-the-frozen-continent/levels/monde/worldmap.stwm:3
+msgid "The Frozen Continent"
+msgstr ""

@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/A Bombastic Day.stl:3
+msgid "A Bombastic Day"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/A Wonderful Day.stl:3
+msgid "A Wonderful Day"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Above The Clouds.stl:3
+msgid "Above the Clouds"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Alls Well That Ends Well.stl:3
+msgid "All's Well That Ends Well"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Alls Well That Ends Well.stl:2778
+msgid ""
+"# Can you handle this\r\n"
+"# Skill-Jump?"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Big Wave.stl:3
+msgid "Big Wave"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Blue Mountain.stl:3
+msgid "Blue Mountain"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Carry Me.stl:3
+msgid "Carry Me"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Cave Of Waterfalls.stl:3
+msgid "Cave Of Waterfalls"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Controlling the Temperature.stl:3
+msgid "Controlling The Temperature"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Controlling the Temperature.stl:114
+msgid ""
+"-Temperature Blocks:\r\n"
+"\r\n"
+"!images/objects/bonus_block/temperature_block_white.png\r\n"
+"!images/objects/bonus_block/temperature_block_blue.png\r\n"
+"\r\n"
+"#These blocks allow you to change the temperature in this cave."
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Crazy Cave.stl:3
+msgid "Crazy Cave"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Dont Be Afraid.stl:3
+msgid "Don't Be Afraid"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Escape From The Pirates.stl:3
+msgid "Escape From The Pirates"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Foreign Passenger.stl:3
+msgid "Foreign Passenger"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Freeze n Flee.stl:3
+msgid "Freeze 'n' Flee"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Hail Storm.stl:3
+msgid "Hail Storm"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Hang Out In The Underground.stl:3
+msgid "Hang Out In The Underground"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/I Go With My Latern.stl:3
+msgid "I Go With My Latern"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/I Go With My Latern.stl:41
+msgid ""
+"#Attention: \n"
+"#Don't throw your laterns away! And: Think first before you go forward."
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/I Go With My Latern.stl:47
+msgid ""
+"#Help:\n"
+"#You have to throw one of the red laterns over the ice platform!"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Its Getting Colder.stl:3
+msgid "It's Getting Colder"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Leaving Home And Start The Journey.stl:3
+msgid "Leaving Home And Start The Journey"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Leaving Home And Start The Journey.stl:45
+msgid ""
+"-Fishbox:\n"
+"\n"
+"!images/powerups/fish/fishbox.png\n"
+"\n"
+"#Collect all fishboxes to unlock some secret levels."
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Leaving Home And Start The Journey.stl:54
+msgid ""
+"-Blue Coins:\n"
+"\n"
+"!images/objects/coin/coinblue-0.png\n"
+"\n"
+"#Find 5 blue coins in one level and you'll get 3 lifes!"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Living Spikes.stl:3
+msgid "Living Spikes"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Lotus Grotto.stl:3
+msgid "Lotus Grotto"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/More Of The Blue Mountain.stl:3
+msgid "More Of The Blue Mountain"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Next To The Stars.stl:3
+msgid "Next To The Stars"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/No Bridge Out There.stl:3
+msgid "No Bridge Out There"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Path Without Name.stl:3
+msgid "Path Without Name"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Pirates Harbor.stl:3
+msgid "Pirate's Harbor"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Playground In The Water.stl:3
+msgid "Playground In The Water"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Reaching The Top.stl:3
+msgid "Reaching The Top"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Shaft Racing.stl:3
+msgid "Shaft Racing"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Shaft Racing.stl:77
+msgid "#It's a bad idea to jump from the wagon!"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Slippery Climbing.stl:3
+msgid "Slippery Climbing"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Something In The Water.stl:3
+msgid "Something In The Water"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Something To Enjoy.stl:3
+msgid "Something To Enjoy"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Spooky Way Of Life.stl:3
+msgid "Spooky Way Of Life"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Staple Me.stl:3
+msgid "Staple Me"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Staple Me.stl:969
+msgid ""
+"-Staple Blocks:\r\n"
+"\r\n"
+"!images/objects/bonus_block/wood-up.png\r\n"
+"\r\n"
+"#These blocks help you to reach high places. Use them as often as you want."
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Still Waters Run Deep.stl:3
+msgid "Still Waters Run Deep"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Surfing Tux.stl:3
+msgid "Surfing Tux"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/The Grand Bridge.stl:3
+msgid "The Grand Bridge"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/The Grand Bridge.stl:92
+msgid ""
+"#ATTENTION:\n"
+"#In repair. Do not pass!"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/The Way Down.stl:3
+msgid "The Way Down"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Through The Groundwater.stl:3
+msgid "Through The Groundwater"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Windy Day On Ice.stl:3
+msgid "Windy Day On Ice"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/Yetis Revenge.stl:3
+#: src/niso-yetis-revenge/levels/yetis_revenge/worldmap.stwm:3
+msgid "Yeti's Revenge"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/bonus.stl:3
+msgid "Bonus"
+msgstr ""
+
+#: src/niso-yetis-revenge/levels/yetis_revenge/intro.stl:3
+msgid "A Loud Night"
+msgstr ""

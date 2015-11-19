@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/arctic_paths.stl:3
+msgid "Arctic paths"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/bridge.stl:3
+msgid "Bridge"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/cave-in.stl:3
+msgid "Cave-in"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/dark_and_dangerous.stl:3
+msgid "Dark and Dangerous"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/flying.stl:3
+msgid "Flying"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/outside_again.stl:3
+msgid "Outside again"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/st_legacy.stl:3
+msgid "SuperTux Legacy"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/the-early-penguin.stl:3
+msgid "The early penguin catches the fish"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/underground-fortress.stl:3
+msgid "Underground Fortress"
+msgstr ""
+
+#: src/levels-of-wolfs/levels/levels-of-wolfs/worldmap.stwm:3
+msgid "Unnamed"
+msgstr ""

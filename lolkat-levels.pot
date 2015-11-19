@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/lolkat-levels/levels/Lolkat's Levels/1.stl:3
+msgid "Plank Structures"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/10.stl:3
+msgid "Strangerest Happenings"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/10.stl:68
+msgid "-The upper route is more difficult but is much more rewarding!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/11.stl:3
+msgid "Strangest Happenings"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/12.stl:3
+msgid "Suspicious Minds"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/13.stl:3
+msgid "What a Night for a Fright"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/14.stl:3
+msgid "Crusher Canyon"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/15.stl:3
+msgid "Warzone!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/16.stl:3
+msgid "Brown Justice"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/17.stl:3
+msgid "Dispenser Alley"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/18.stl:3
+msgid "Frosty Castle"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/19.stl:3
+msgid "Icy Bridge"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/19.stl:27
+msgid "-Warning! Bridge out!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/2.stl:3
+msgid "Area Denial"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/20.stl:3
+msgid "On Thin Ice"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/20.stl:35
+msgid "-WARNING! REMAINING ICE IS SLIPPERY!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/20.stl:40
+msgid ""
+"-DO NOT ENTER!\n"
+"Abandoned Ice Cube Factory"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/21.stl:3
+msgid "Pennysaving"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/21.stl:104
+msgid ""
+"-You can hold down the jump key to bounce off enemies! Use this to get past "
+"these snowballs by bouncing across!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/22.stl:3
+msgid "Shocking Kill"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/23.stl:3
+msgid "There's Snow Bonus like a Snow Bonus!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/3.stl:3
+msgid "Crystal Ice Heights"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/3.stl:68
+msgid ""
+"Look out for falling icicles under the ice! They are hard to notice so be "
+"careful or keep moving!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/4.stl:3
+msgid "Darktrap Cavern"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/5.stl:3
+msgid "Even More Strange Happenings"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/6.stl:3
+msgid "Mudslide Forest"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/7.stl:3
+msgid "Skull Gorge"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/8.stl:3
+msgid "Skullyhop's Fort"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/8.stl:46
+msgid ""
+"-Skullyhops: Hehe! You thought we wouldn't empty the bonus boxes before you "
+"were coming? Ha! If you manage to pass this castle, try and beat our other "
+"seven! Hehe!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/9.stl:3
+msgid "Strange Happenings"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/first.stl:3
+msgid "First Fields"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:3
+msgid "Lolkat loves his skullyhops (Intro Level)"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:20
+msgid "aHello! Welcome to my supertux 0.3.3 world!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:25
+msgid ""
+"aAfter 5 years of trying to make the ST Editor work on Windows, I finally "
+"discovered a help thread on how to get it to work."
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:30
+msgid ""
+"aI read up on the editor guide, but soon after realized it was incomplete... "
+"(no special events for me :( )"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:35
+msgid ""
+"aI've loved this game ever since I was very very young and am finally "
+"thrilled to have access to ST 0.3.3 level creation!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:40
+msgid ""
+"aConsidering these are my first levels ever made with this much more "
+"advanced editor than 0.1.3's, don't expect my first levels to be beautiful "
+"pieces of art :P"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:45
+msgid ""
+"aMost of the levels are 200 in length and 20 in height, but some are taller "
+"and longer."
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:50
+msgid ""
+"aI'm currently working on a new level set with longer levels and (hopefully "
+"XD) better design!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:55
+msgid ""
+"aI hope you all enjoy my levels, and please, leave feedback in the post, I'm "
+"extending a few of the levels in my newer set and would like feedback on "
+"improving some levels!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:60
+msgid ""
+"aOh, and by the way, my favorite enemy is Skullyhop and favorite feature is "
+"changing the lighting color and lanterns. Expect lots of these."
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/intro.stl:65
+msgid ""
+"aOh, I'd like to thank LMH, ctdabomb, and the supertux team for helping me "
+"along the way and creating supertux!"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/worldmap.stwm:3
+msgid "Icyisland"
+msgstr ""
+
+#: src/lolkat-levels/levels/Lolkat's Levels/worldmap.stwm:13
+msgid "Go Home"
+msgstr ""

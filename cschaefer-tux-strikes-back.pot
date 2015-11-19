@@ -1,0 +1,144 @@
+#: src/cschaefer-tux-strikes-back/levels/tsb/extro.txt:6
+msgid ""
+"-Entering Nolok's Throne Room!\r\n"
+"\r\n"
+"#Tux ran into Nolok's throne room,\r\n"
+"#frantically searching for his beloved.\r\n"
+"#Alas, he found neither Penny nor Nolok\r\n"
+"#there, but instead, another note.\r\n"
+"\r\n"
+"#\"Well done, Tux, well done. If you are\r\n"
+"#reading this, you have removed my\r\n"
+"#control over this icy fortress. But as\r\n"
+"#you can see, your beloved Penny is not\r\n"
+"#here. What you did not realize is that\r\n"
+"#this is just one of my many fortresses,\r\n"
+"#spread far across the lands!\r\n"
+"\r\n"
+"#\"Tux, your ambition is most honorable,\r\n"
+"#but futile nonetheless. With every\r\n"
+"#fortress you conquer of mine, I will\r\n"
+"#escape to another, and take Penny with\r\n"
+"#me. Do not be silly... it is best that\r\n"
+"#you give up now.\"\r\n"
+"\r\n"
+"#Tux was sadly leaving the room, when he\r\n"
+"#felt something beneath his foot... an\r\n"
+"#envelope, addressed to him! Inside was\r\n"
+"#a roughly sketched map with fortresses\r\n"
+"#drawn in various lands. On the corner\r\n"
+"#of the map was Penny's signature, a\r\n"
+"#drawing of the ice flower.\r\n"
+"\r\n"
+"#Tux ran out of the fortress, map in\r\n"
+"#hand. No, he decided, he would not give\r\n"
+"#up. Penny was counting on him."
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level00.stl:3
+msgid "The Story"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level01.stl:3
+msgid "Level 1: The Quest Begins"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level02.stl:3
+msgid "Level 2: Cave of Fear"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level03.stl:3
+msgid "Level 3: Across the Sea"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level04.stl:3
+msgid "Level 4: Cold Grave"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level05.stl:3
+msgid "Level 5: Creepy Castle"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level06.stl:3
+msgid "Level 6: Arctic Nights"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level07.stl:3
+msgid "Level 7: Boxy World"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level08.stl:3
+msgid "Level 8: The Flying Fortress"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level09.stl:3
+msgid "Level 9: Unfriendly Fishes"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level10.stl:3
+msgid "Level 10: Surviving the Maze"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level11.stl:3
+msgid "Level 11: Wrong Place for Penguins"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level12.stl:3
+msgid "Level 12: The Flood"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level13.stl:3
+msgid "Level 13: Risky Highs"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level14.stl:3
+msgid "Level 14: Path of Fire"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level15.stl:3
+msgid "Level 15: Hell on Ice"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level16.stl:3
+msgid "Level 16: Deadly Cave"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level17.stl:3
+msgid "Level 17: Route to Nolok"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level18.stl:3
+msgid "Level 18: Nolok's Army"
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/tsb-level19.stl:3
+msgid "Bonus Level: 20 Seconds to Eternity"
+msgstr ""
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/cschaefer-tux-strikes-back/levels/tsb/worldmap.stwm:3
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/worldmap.stwm:18
+msgid "I wonder where I will go next..."
+msgstr ""
+
+#: src/cschaefer-tux-strikes-back/levels/tsb/worldmap.stwm:25
+msgid "I hope this thing still works..."
+msgstr ""

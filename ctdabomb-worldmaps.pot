@@ -1,0 +1,371 @@
+#: src/ctdabomb-worldmaps/levels/CT's Domain/cas-spiders.stl:3
+msgid "Castle of Creepy Spiders"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/extro.txt:6
+msgid ""
+"-Thanks for playing CT's Domain!\n"
+"\n"
+"#I hope you like liked this levelset.\n"
+"#If you have any questions, comments,\n"
+"#or ideas, please let me know on bug\n"
+"#number 827 on the bug tracker.\n"
+"\n"
+"#\" This has been CT's Domain\n"
+"#Levels by CT. da'Bomb and\n"
+"#Retep"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-bluerock.stl:3
+msgid "Out on the Blue Rocks"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-boss.stl:3
+msgid "Mr Ice Guy Came Back"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-castle.stl:3
+msgid "Zeekling Fortress"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-hevan.stl:3
+msgid "Tough Path to Heaven"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-machine.stl:3
+msgid "The machine"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-snomans.stl:3
+msgid "Stuck in sNOman's Land"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/final-speedboat.stl:3
+msgid "A Trip in The Speed Boat"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-clearnight.stl:3
+msgid "The Clear Night Sky"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-coin.stl:3
+msgid "Can You Find The Coins?"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-coin.stl:20
+msgid ".You need to find the 5 coins before you can get through."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-cristoph4.stl:3
+msgid "Cristoph4.stl"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-frogs.stl:3
+msgid "Those Waves of Frogs"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-golf.stl:3
+msgid "Life on a Three Hole Golf Course"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-golf.stl:146
+msgid ".The Pro Shop."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-golf.stl:151
+msgid ".The First Hole."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-golf.stl:156
+msgid ".The Second Hole."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-golf.stl:161
+msgid ".The Third Hole."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-haul.stl:3
+msgid "The Long Haul"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-mntfort.stl:3
+msgid "The Mountain Fortress"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-moredirt.stl:3
+msgid "Some More Dirt"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/for-pond.stl:3
+msgid "Frog Pond"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/ghost-moreghosts.stl:3
+msgid "Some More Ghosts"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/jump.stl:3
+msgid "Jump Up to Death"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/sklife.stl:3
+msgid "So LOOOONG and Hard You Will Wish You Never Found It."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/skyburn.stl:3
+msgid "The Sky is Falling and the Hay is Burning"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-42.stl:3
+msgid "42 Steps To Safety"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-avalan.stl:3
+msgid "Riding the Avalanche"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-backwards.stl:3
+msgid "Somethings Backwards Here!!!"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-backwards2.stl:3
+msgid "Somethings Backward here 2!!!"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-backwards2.stl:149
+msgid ""
+"\tOh no! The path is Blocked\n"
+"\tto go though you must move the\n"
+"\tblocks, by pressing down the action\n"
+"\tkey and grabing the block!"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-boss.stl:3
+msgid "Take Your Pick....BOSS SYLE!!!!!"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-cartoon.stl:3
+msgid "Tux in Cartoon Land"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-caveju.stl:3
+msgid "Jumping in a Cave"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-city.stl:3
+msgid "Life in an Arctic City"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-crux.stl:3
+msgid "Crux Move"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-cryflip.stl:3
+msgid "Can Crystals Flip?"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-fog.stl:3
+msgid "A Foggy Day"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-high.stl:3
+msgid "A Long Way to Fall"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-icecrusher.stl:3
+msgid "icecubeish nightmare"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-icecrusher.stl:1299
+msgid ""
+".you have to stop eating ice cubes before bed, it gives you nightmares like "
+"this one."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-log.stl:3
+msgid "A Visit to the Loggers Camp."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-log.stl:76
+msgid ".This is a loggers cabin, WATCH OUT!."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-mine.stl:3
+msgid "Visit to the cystal mine"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-moresnow.stl:3
+msgid "Some More Snow"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-name.stl:3
+msgid "It's Self Expanatory"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-prize.stl:3
+msgid "A Prize For Originality"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-secret.stl:3
+msgid "Do You Want to Find The Secret Area???"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-skijump.stl:3
+msgid "It's a Ski Jump!"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-snow.stl:3
+msgid "Good Ol' Snow"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-storms.stl:3
+msgid "thunderstorms at night"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-tuphy.stl:3
+msgid "Tuphy"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-waterfire.stl:3
+msgid "Where Water Mixes With Fire"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-waterfire.stl:142
+msgid ".You are half way there."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/snow-yellow.stl:3
+msgid "Don't Eat The Yellow Snow"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/CT's Domain/worldmap.stwm:3
+msgid "CT's Domain"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/1-intro.stl:3
+msgid "Unnamed"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/10-lastnight.stl:3
+msgid "Last night for penny"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/11-moat.stl:3
+msgid "The Dangerous Moat"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/12-spike.stl:3
+msgid "Spike Cannon"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/13-owltemple.stl:3
+msgid "Temple of Owls"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/13.5-fields of goo.stl:3
+msgid "Fields of Goo"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/14-house.stl:3
+msgid "The House of Nolok"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/15-end.stl:3
+msgid "Escape at Dawn"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/2-off to find penny.stl:3
+msgid "Going to Go Find Penny"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/3-pipey.stl:3
+msgid "Bomb Squad"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/4-night1.stl:3
+msgid "One Night Left for Penny"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/4.2-before storm.stl:3
+msgid "Before the Storm"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/4.4-storm.stl:3
+msgid "The Storm"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/4.6-icy mud.stl:3
+msgid "Icy Mud"
+msgstr ""
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/ctdabomb-worldmaps/levels/penny/4.6-icy mud.stl:66
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/ctdabomb-worldmaps/levels/penny/5-hanging gardens.stl:3
+msgid "The Hanging gardens of Nolok"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/6-noloks desert.stl:3
+msgid "Nolok's Desert"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/7-waterfall.stl:3
+msgid "Waterfall Valley"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/8-castle ruins.stl:3
+msgid "Castle Ruins"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/8.5-bridge over water.stl:3
+msgid "Bridge Over Troubled Waters"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/8.5-bridge over water.stl:62
+msgid ".follow the pipe and turn off the electricity-->"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/9-guards.stl:3
+msgid "Nolok's Guards"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/extro.stl:3
+msgid "Extro"
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/extro.txt:3
+msgid ""
+"-Dear Supertuxer,\n"
+"\n"
+"#Thank you for helping Me save\n"
+"#Penny From Nolok.\n"
+"#Yours penguinly,\n"
+"#               Tux\n"
+"#\n"
+"#\n"
+"#P.S. Penny Says thanks also :-)\n"
+"\n"
+"\n"
+" Bye..."
+msgstr ""
+
+#: src/ctdabomb-worldmaps/levels/penny/worldmap.stwm:3
+msgid "Race to Penny"
+msgstr ""

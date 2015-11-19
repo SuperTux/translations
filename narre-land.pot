@@ -1,0 +1,475 @@
+#: src/narre-land/levels/narre/detour.stl:3
+msgid "Detour on flying platform"
+msgstr ""
+
+#: src/narre-land/levels/narre/eight.stl:3
+msgid "Oh no! More fishes!"
+msgstr ""
+
+#: src/narre-land/levels/narre/eight.stl:25
+msgid ""
+" <-----\r\n"
+"       |\r\n"
+"       |"
+msgstr ""
+
+#: src/narre-land/levels/narre/eighteen.stl:3
+msgid "Dark Crystals"
+msgstr ""
+
+#: src/narre-land/levels/narre/eighteen.stl:5861
+msgid ""
+"TThese are spikes that after pressing the button always disappear for a "
+"while, in this case it is 10 seconds."
+msgstr ""
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/narre-land/levels/narre/eighteen.stl:60893
+#: src/narre-land/levels/narre/eighteen.stl:60898
+#: src/narre-land/levels/narre/eighteen.stl:60903
+#: src/narre-land/levels/narre/eighteen.stl:60908
+#: src/narre-land/levels/narre/eighteen.stl:60913
+#: src/narre-land/levels/narre/eighteen.stl:60918
+#: src/narre-land/levels/narre/eighteen.stl:60923
+#: src/narre-land/levels/narre/one.stl:126
+#: src/narre-land/levels/narre/one.stl:131
+#: src/narre-land/levels/narre/one.stl:136
+#: src/narre-land/levels/narre/three.stl:175
+#: src/narre-land/levels/narre/three.stl:180
+#: src/narre-land/levels/narre/three.stl:185
+#: src/narre-land/levels/narre/three.stl:190
+#: src/narre-land/levels/narre/three.stl:195
+#: src/narre-land/levels/narre/three.stl:200
+#: src/narre-land/levels/narre/three.stl:205
+#: src/narre-land/levels/narre/three.stl:210
+#: src/narre-land/levels/narre/three.stl:215
+#: src/narre-land/levels/narre/three.stl:220
+#: src/narre-land/levels/narre/twelve.stl:375
+#: src/narre-land/levels/narre/twelve.stl:380
+#: src/narre-land/levels/narre/twelve.stl:385
+#: src/narre-land/levels/narre/twelve.stl:390
+#: src/narre-land/levels/narre/twelve.stl:395
+#: src/narre-land/levels/narre/twelve.stl:400
+#: src/narre-land/levels/narre/twelve.stl:405
+#: src/narre-land/levels/narre/twelve.stl:410
+#: src/narre-land/levels/narre/twentytwo.stl:160
+#: src/narre-land/levels/narre/twentytwo.stl:165
+#: src/narre-land/levels/narre/twentytwo.stl:170
+#: src/narre-land/levels/narre/twentytwo.stl:175
+#: src/narre-land/levels/narre/twentytwo.stl:180
+#: src/narre-land/levels/narre/twentytwo.stl:185
+#: src/narre-land/levels/narre/twentytwo.stl:190
+#: src/narre-land/levels/narre/twentytwo.stl:195
+#: src/narre-land/levels/narre/twentytwo.stl:658
+#: src/narre-land/levels/narre/twentytwo.stl:663
+#: src/narre-land/levels/narre/twentytwo.stl:668
+#: src/narre-land/levels/narre/twentytwo.stl:673
+#: src/narre-land/levels/narre/twentytwo.stl:678
+#: src/narre-land/levels/narre/twentytwo.stl:683
+#: src/narre-land/levels/narre/twentytwo.stl:688
+#: src/narre-land/levels/narre/twentytwo.stl:693
+#: src/narre-land/levels/narre/two.stl:1800
+#: src/narre-land/levels/narre/two.stl:1805
+#: src/narre-land/levels/narre/two.stl:1810
+#: src/narre-land/levels/narre/two.stl:1815
+#: src/narre-land/levels/narre/two.stl:1820
+#: src/narre-land/levels/narre/two.stl:1825
+#: src/narre-land/levels/narre/two.stl:1830
+#: src/narre-land/levels/narre/two.stl:1835
+#: src/narre-land/levels/narre/two.stl:1840
+#: src/narre-land/levels/narre/two.stl:1845
+#: src/narre-land/levels/narre/two.stl:1850
+#: src/narre-land/levels/narre/two.stl:1855
+#: src/narre-land/levels/narre/two.stl:1860
+#: src/narre-land/levels/narre/two.stl:1865
+#: src/narre-land/levels/narre/two.stl:1870
+#: src/narre-land/levels/narre/two.stl:1875
+#: src/narre-land/levels/narre/two.stl:1880
+#: src/narre-land/levels/narre/two.stl:1885
+#: src/narre-land/levels/narre/two.stl:1890
+#: src/narre-land/levels/narre/two.stl:1895
+#: src/narre-land/levels/narre/two.stl:1900
+#: src/narre-land/levels/narre/two.stl:1905
+#: src/narre-land/levels/narre/two.stl:1910
+#: src/narre-land/levels/narre/two.stl:1915
+#: src/narre-land/levels/narre/two.stl:1920
+#: src/narre-land/levels/narre/two.stl:1925
+#: src/narre-land/levels/narre/two.stl:1930
+#: src/narre-land/levels/narre/two.stl:1935
+#: src/narre-land/levels/narre/two.stl:1940
+#: src/narre-land/levels/narre/two.stl:1945
+#: src/narre-land/levels/narre/two.stl:1950
+#: src/narre-land/levels/narre/two.stl:1955
+#: src/narre-land/levels/narre/two.stl:1960
+#: src/narre-land/levels/narre/two.stl:1965
+#: src/narre-land/levels/narre/two.stl:1970
+#: src/narre-land/levels/narre/two.stl:1975
+#: src/narre-land/levels/narre/two.stl:1980
+#: src/narre-land/levels/narre/two.stl:1985
+#: src/narre-land/levels/narre/two.stl:1990
+#: src/narre-land/levels/narre/two.stl:1995
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/narre-land/levels/narre/eleven.stl:3
+msgid "Teleporters and Bombs"
+msgstr ""
+
+#: src/narre-land/levels/narre/eleven.stl:19
+msgid ""
+"*Teleporters\r\n"
+"#If you go into these booths and jump,\r\n"
+"#they teleport you to another booth and \r\n"
+"#back, you can try it here"
+msgstr ""
+
+#: src/narre-land/levels/narre/eleven.stl:27
+msgid ""
+"*Hurry up!\r\n"
+"-These bombs \r\n"
+"!images/creatures/mr_bomb/exploding-left-0.png \r\n"
+"-explode to two minutes, or if you touch them."
+msgstr ""
+
+#: src/narre-land/levels/narre/eleven.stl:35
+msgid "RThis is tree teleporter,they can teleport over great distances"
+msgstr ""
+
+#: src/narre-land/levels/narre/eleven.stl:40
+msgid "AAll Bombs are deactivated!"
+msgstr ""
+
+#: src/narre-land/levels/narre/extro.txt:6
+msgid ""
+"-Well done! You completed NarreLand!\r\n"
+"\r\n"
+"#You killed Nolok !\r\n"
+"#Nolok can't move Penny from this moment, because he is killed. Just only "
+"find Penny."
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:3
+msgid "Hello, hello Antarctica!"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:20
+msgid "cCan you find true way?"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:25
+msgid "WWrong Way"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:30
+msgid "l<->"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:35
+msgid "OYou are on good Way"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:40
+msgid "lGood job"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:45
+msgid "lWrong Way"
+msgstr ""
+
+#: src/narre-land/levels/narre/fifteen.stl:50
+msgid "vAnd where to go now?"
+msgstr ""
+
+#: src/narre-land/levels/narre/five.stl:3
+msgid "Forest Jumping"
+msgstr ""
+
+#: src/narre-land/levels/narre/four.stl:3
+msgid "Climbable Maze"
+msgstr ""
+
+#: src/narre-land/levels/narre/fourteen.stl:3
+msgid "Cave Escape"
+msgstr ""
+
+#: src/narre-land/levels/narre/fourteen.stl:1116
+msgid "BThe only way leads to the teleport."
+msgstr ""
+
+#: src/narre-land/levels/narre/fourteen.stl:1293
+msgid ""
+"TThis is teleport iggloo, sometimes replaces teleport-tree at Antarctica"
+msgstr ""
+
+#: src/narre-land/levels/narre/icebridgewood.stl:3
+msgid "Can You collect all coins?"
+msgstr ""
+
+#: src/narre-land/levels/narre/nine.stl:3
+msgid "A Cave in the Sea"
+msgstr ""
+
+#: src/narre-land/levels/narre/nineteen.stl:3
+msgid "Falling Down"
+msgstr ""
+
+#: src/narre-land/levels/narre/one.stl:3
+msgid "Welcome to NarreLand"
+msgstr ""
+
+#: src/narre-land/levels/narre/seven.stl:3
+msgid "A Turbulent Sea"
+msgstr ""
+
+#: src/narre-land/levels/narre/seventeen.stl:3
+msgid "Cave Train"
+msgstr ""
+
+#: src/narre-land/levels/narre/six.stl:3
+msgid "A way to Sea"
+msgstr ""
+
+#: src/narre-land/levels/narre/sixteen.stl:3
+msgid "Welcome to Arctica"
+msgstr ""
+
+#: src/narre-land/levels/narre/sixteen.stl:20
+msgid ""
+"II'm on south Pole of Earth and this teleport teleporting to north Pole of "
+"Earth and in Arctica is the crystalcave. In this crystalcave is a key from "
+"Nolok's second castle, I must find it"
+msgstr ""
+
+#: src/narre-land/levels/narre/sixteen.stl:197
+#: src/narre-land/levels/narre/twentythree.stl:387
+msgid "TThis is Crystalcave Exit"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:3
+msgid "Tricky Doors"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:420
+msgid "WWelcome to the door 1 opening sector!"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:1024
+msgid "WWelcome to the door 2 open sector!"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:1225
+msgid "WWelcome to the door 3 open sector"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:1863
+msgid "WWelcome to the door 4 open sector!"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:2069
+msgid "WWelcome to the door 5 open sector!"
+msgstr ""
+
+#: src/narre-land/levels/narre/tdoors.stl:2429
+msgid "WWelcome to th door 2 open sector!"
+msgstr ""
+
+#: src/narre-land/levels/narre/ten.stl:3
+msgid "Hello Land!"
+msgstr ""
+
+#: src/narre-land/levels/narre/thirteen.stl:3
+msgid "Deep Underground"
+msgstr ""
+
+#: src/narre-land/levels/narre/thirteen.stl:19
+msgid "OOh no! This way is blocked! I must jump to this hole."
+msgstr ""
+
+#: src/narre-land/levels/narre/thirty.stl:3
+msgid "Powerup automats"
+msgstr ""
+
+#: src/narre-land/levels/narre/thirty.stl:342
+msgid ""
+"-Fireflower Automat\r\n"
+"FFireflower for 10 coins\r\n"
+"PPress the button to buy item..."
+msgstr ""
+
+#: src/narre-land/levels/narre/thirty.stl:559
+msgid ""
+"-Iceflower Automat\r\n"
+"IIceflower for 5 coins\r\n"
+"PPress the button to buy item..."
+msgstr ""
+
+#: src/narre-land/levels/narre/thirty.stl:566
+msgid ""
+"-Star Automat\r\n"
+"SStar for 25 coins\r\n"
+"PPress button to buy item..."
+msgstr ""
+
+#: src/narre-land/levels/narre/thirtyone.stl:3
+msgid "Icy Fortress"
+msgstr ""
+
+#: src/narre-land/levels/narre/thirtyone.stl:40
+msgid ""
+"-Castle Door\r\n"
+"II must use the key from CrystalCave..."
+msgstr ""
+
+#: src/narre-land/levels/narre/thirtytwo.stl:3
+msgid "Kill Nolok !"
+msgstr ""
+
+#: src/narre-land/levels/narre/three.stl:3
+msgid "Tricky Ways"
+msgstr ""
+
+#: src/narre-land/levels/narre/twelve.stl:3
+msgid "Welcome to the darkcave!"
+msgstr ""
+
+#: src/narre-land/levels/narre/twelve.stl:19
+msgid "MThere is not a way towards. I must use this teleport-tree."
+msgstr ""
+
+#: src/narre-land/levels/narre/twelve.stl:370
+msgid ""
+"LOops, I'm in a dark cave and teleport back heaped of wood! I must find a way"
+msgstr ""
+
+#: src/narre-land/levels/narre/twenty.stl:3
+msgid "Castle Key"
+msgstr ""
+
+#: src/narre-land/levels/narre/twenty.stl:32
+msgid "DDown"
+msgstr ""
+
+#: src/narre-land/levels/narre/twenty.stl:37
+msgid "UUp"
+msgstr ""
+
+#: src/narre-land/levels/narre/twenty.stl:42
+msgid "OOut of range"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyeight.stl:3
+msgid "A Ghostly Jungle"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyfive.stl:3
+msgid "A rotten bridge over the river"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyfive.stl:40
+msgid "OOh no! This bridge is not stable!"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyfive.stl:45
+msgid "TTo the Jungle ->"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyfour.stl:3
+msgid "DayLight"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentynine.stl:3
+msgid "Above the Jungle"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyone.stl:3
+msgid "Returning Back"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentyseven.stl:3
+msgid "Thorns under the Jungle"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentysix.stl:3
+msgid "Welcome to the Jungle"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentythree.stl:3
+msgid "Spider Hole or CrystalCave Escape"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentytwo.stl:3
+msgid "Going Up"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentytwo.stl:200
+msgid "jFloor 0"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentytwo.stl:643
+msgid "jFloor -5"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentytwo.stl:648
+msgid "FFloor -4"
+msgstr ""
+
+#: src/narre-land/levels/narre/twentytwo.stl:653
+msgid "FFloor -5"
+msgstr ""
+
+#: src/narre-land/levels/narre/two.stl:3
+msgid "Last Egg Standing"
+msgstr ""
+
+#: src/narre-land/levels/narre/two.stl:1267
+msgid ""
+"LGo play Last Egg Standing Supertux style!\r\n"
+" You need smalltux"
+msgstr ""
+
+#: src/narre-land/levels/narre/worldmap.stwm:3
+msgid "Narre Land"
+msgstr ""
+
+#: src/narre-land/levels/narre/worldmap.stwm:225
+msgid "Ha! Teleport Iggloo"
+msgstr ""
+
+#: src/narre-land/levels/narre/worldmap.stwm:232
+msgid "Ha! Teleport Tree"
+msgstr ""
+
+#: src/narre-land/levels/narre/yeti.stl:3
+msgid "Four Undersea Yetys"
+msgstr ""
+
+#: src/narre-land/levels/narre/yeti.stl:24
+msgid "YYeti 1"
+msgstr ""
+
+#: src/narre-land/levels/narre/yeti.stl:305
+msgid "YYeti 2"
+msgstr ""
+
+#: src/narre-land/levels/narre/yeti.stl:480
+msgid "YYeti 3"
+msgstr ""
+
+#: src/narre-land/levels/narre/yeti.stl:621
+msgid "YYeti 4"
+msgstr ""

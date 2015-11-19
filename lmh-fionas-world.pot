@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/lmh-fionas-world/levels/fiona/Best.stl:3
+msgid "The Best World in the World"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/FlowerWorld.stl:3
+msgid "The Flower World"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/RainbowWorld.stl:3
+msgid "Rainbow World"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/Stairs.stl:3
+msgid "Unnamed"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/bridge.stl:3
+msgid "The Bridge"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/bridge.stl:82
+msgid ""
+"* The itsy-bitsy spider\n"
+"* Went up the water spout.\n"
+"\n"
+"* Down came the rain and\n"
+"* Washed the spider out!"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:3
+msgid "Fowl Fortress"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:80
+msgid ""
+"-One, two,\n"
+"\n"
+"-Buckle your shoe."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:725
+msgid ""
+"-Three, four,\n"
+"\n"
+"-Shut the door."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:3230
+msgid ""
+"-Five, six,\n"
+"\n"
+"-Pick up sticks."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:3237
+msgid ""
+"-Seven, eight,\n"
+"\n"
+"-Lie them straight."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/castle.stl:3244
+msgid ""
+"-Nine, ten,\n"
+"\n"
+"-A big fat hen!"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:3
+msgid "The Color Cave"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:98
+msgid ""
+"#R - E - D\n"
+"#\n"
+"#Spells the color red"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:105
+msgid ""
+"*B - L - U - E\n"
+"*\n"
+"*Spells the color blue"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:112
+msgid ""
+"#G - R - E - E - N\n"
+"#\n"
+"#Spells the color green"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:119
+msgid ""
+"-Y - E - L - L - O - W\n"
+"-\n"
+"-Spells the color yellow"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:126
+msgid ""
+"#P - U - R - P - L - E\n"
+"#\n"
+"#Spells the color purple"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/color.stl:133
+msgid ""
+"#O - R - A - N - G - E\n"
+"#\n"
+"#Spells the color orange"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:3
+msgid "The Counting Cave"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:158
+msgid "- Here is one penguin."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:163
+msgid "- Here are two flowers."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:168
+msgid "- Here are three stars."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:173
+msgid "- Here are four blocks."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/count.stl:178
+msgid "- Here are five coins."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/drawbridge.stl:3
+msgid "Castle Drawbridge"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/drawbridge.stl:600
+msgid ""
+"- Jack be nimble,\n"
+"- Jack be quick,\n"
+"- Jack jump over,\n"
+"- The Candelstick!"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/fiona.stl:3
+msgid "Fiona's Level"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/fiona.stl:38
+msgid ""
+"-F - I - O - N - A\n"
+"*Fiona!\n"
+"-F - I - O - N - A\n"
+"*Fi - o - na!"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/ice.stl:3
+msgid "We Need Ice!"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/ice.stl:324
+msgid ""
+"-Ring around the rosie,\n"
+"-A pocket full of posies,\n"
+"-Ashes! Ashes!\n"
+"-We all fall down."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/intro.stl:3
+msgid "Intro"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/night.stl:3
+msgid "Starry Night"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/night.stl:176
+msgid ""
+"* Rain, rain, go away\n"
+"\n"
+"*Come again, another day"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/pirates.stl:3
+msgid "Pirate Attack"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/pirates.stl:1037
+msgid ""
+"#Twinkle, twinkle, little star\n"
+"#How I wonder what you are?\n"
+"\n"
+"#Up above the world so high\n"
+"#Like a diamond in the sky\n"
+"\n"
+"#Twinkle, twinkle, little star\n"
+"#How I wonder what you are?"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/river.stl:3
+msgid "Over the River"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/river.stl:59
+msgid ""
+"# Row, row, row your boat\n"
+"# Gently down the stream.\n"
+"# Merrily, merrily, merrily, merrily,\n"
+"# Life is but a dream."
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:3
+msgid "Fiona's World"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:20
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:44
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:60
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:76
+msgid "Outside"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:28
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:36
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:52
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:68
+msgid "Inside"
+msgstr ""
+
+#: src/lmh-fionas-world/levels/fiona/worldmap.stwm:84
+msgid "You found a secret place!"
+msgstr ""

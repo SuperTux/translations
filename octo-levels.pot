@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/octo-levels/levels/octo/SML0101.stl:3
+msgid "Super Mario Land 1-1"
+msgstr ""
+
+#: src/octo-levels/levels/octo/SML0102.stl:3
+msgid "Super Mario Land 1-2"
+msgstr ""
+
+#: src/octo-levels/levels/octo/SML0103.stl:3
+msgid "Super Mario Land 1-3"
+msgstr ""
+
+#: src/octo-levels/levels/octo/SML0202.stl:3
+msgid "Super Mario Land 2-2"
+msgstr ""
+
+#: src/octo-levels/levels/octo/SML0303.stl:3
+msgid "Super Mario Land 3-3"
+msgstr ""
+
+#: src/octo-levels/levels/octo/broken_escalator.stl:3
+msgid "The broken elevator"
+msgstr ""
+
+#: src/octo-levels/levels/octo/broken_escalator.stl:20
+msgid ""
+"-Oh no!\n"
+"\tThe elevator is frozen to the ground!"
+msgstr ""
+
+#: src/octo-levels/levels/octo/cherry_frosting.stl:3
+msgid "The Cherry Frosting"
+msgstr ""
+
+#: src/octo-levels/levels/octo/chocolate2.stl:3
+msgid "Chocolate Island 2"
+msgstr ""
+
+#: src/octo-levels/levels/octo/chocolate2.stl:68
+msgid ""
+"\tHere, the coins you collect or the time remaining can change your "
+"progress. Can you find the special goal?"
+msgstr ""
+
+#: src/octo-levels/levels/octo/cube_garden.stl:3
+msgid "Mad Ysonn Cube Garden"
+msgstr ""
+
+#: src/octo-levels/levels/octo/donut2.stl:3
+msgid "Donut Plains 2"
+msgstr ""
+
+#: src/octo-levels/levels/octo/drawbridge.stl:3
+msgid "The Drawbridge"
+msgstr ""
+
+#: src/octo-levels/levels/octo/entrance.stl:3
+msgid "The Entrance"
+msgstr ""
+
+#: src/octo-levels/levels/octo/get_em_all.stl:3
+msgid "Gotta get 'em all!"
+msgstr ""
+
+#: src/octo-levels/levels/octo/get_em_all.stl:38
+msgid ""
+"-Get 'em all!\n"
+"\tThere are 100 coins in this level. Do you have what it takes to collect "
+"them all?"
+msgstr ""
+
+#: src/octo-levels/levels/octo/jolly_jumper.stl:3
+msgid "Jolly Jumper"
+msgstr ""
+
+#: src/octo-levels/levels/octo/throne_room.stl:3
+msgid "Throne room"
+msgstr ""
+
+#: src/octo-levels/levels/octo/through_mountain.stl:3
+msgid "Through the mountain"
+msgstr ""
+
+#: src/octo-levels/levels/octo/torture_chamber.stl:3
+msgid "The Torture Chamber"
+msgstr ""
+
+#: src/octo-levels/levels/octo/torture_chamber.stl:26
+msgid ""
+"-WARNING:\n"
+"\tYou're in the torture chamber. Those devices are no toys!"
+msgstr ""
+
+#: src/octo-levels/levels/octo/tower.stl:3
+msgid "The Tower"
+msgstr ""
+
+#: src/octo-levels/levels/octo/tower.stl:51
+msgid ""
+"-Dear Tux,\n"
+"#Nolok and I are having a picnic in the woods. Why don't you join us?\n"
+"#Love, Penny"
+msgstr ""
+
+#: src/octo-levels/levels/octo/working_title.stl:3
+msgid "Unnamed"
+msgstr ""
+
+#: src/octo-levels/levels/octo/worldmap.stwm:3
+msgid "octo's Island"
+msgstr ""
+
+#: src/octo-levels/levels/octo/yoshi2.stl:3
+msgid "Yoshi's Island 2"
+msgstr ""

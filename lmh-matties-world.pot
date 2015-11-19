@@ -1,0 +1,638 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/lmh-matties-world/levels/mattie_world/TimeWarp.stl:3
+msgid "Time Warp"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/TimeWarp.stl:15
+msgid ""
+"-Past\n"
+"#\n"
+"#Go back to 'The Good Old Days' before all of the troubles of the DOOM "
+"Toad.\n"
+"#\n"
+"*---easy---"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/TimeWarp.stl:24
+msgid ""
+"-Present\n"
+"#\n"
+"#Get back to your own time already.\n"
+"#\n"
+"*---normal---"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/TimeWarp.stl:33
+msgid ""
+"-Future\n"
+"#\n"
+"#See what is to come should you fail at your task.\n"
+"#\n"
+"*---hard---"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/Airship.stl:3
+msgid "Flathead's Airship"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/Airship.stl:505
+msgid ""
+"\n"
+"-Flathead's Quarters\n"
+"#   KEEP OUT!\n"
+"#'Captain's busy... so should you be.'\n"
+"      "
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_Arena.stl:3
+msgid "Bonus Level: Skellington Arena"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_SavagedLands.stl:3
+msgid "Bouns Level: Savaged Lands"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:3
+msgid "  The Trophy Room  "
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:168
+msgid ""
+"-Sky Pirate Swag\n"
+"#\n"
+"#Steal a little booty from pirates in the Frosted Dunes."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:176
+msgid ""
+"-Help from Above\n"
+"#\n"
+"#Find that extra boost to help you through the Frosted Dunes"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:185
+msgid ""
+"-Crystal Quick\n"
+"#\n"
+"#Find the two shortcuts through The Giant Geode. [DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:212
+msgid ""
+"-Airship Cannon\n"
+"#\n"
+"#Launch yourself from the airship cannon accessable from the level Under The "
+"Airship."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:227
+msgid ""
+"-Ode to Useless Stars\n"
+"#\n"
+"#Don't you just hate it when your invincibility goes to waste?"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:242
+msgid ""
+"-The Hard Way\n"
+"#\n"
+"#In Rock Climbing take the hard path to the top without dieing or taking "
+"shortcuts."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:302
+msgid ""
+"*Bonus Level: Savaged Lands\n"
+"#\n"
+"#Discover and start the bonus level Savaged Lands."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:310
+msgid ""
+"-Fire in the Sky\n"
+"#\n"
+"#Seek out the fire-flower hidden above the Savaged Lands."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:319
+msgid ""
+"*Bonus Level: On the Open Ocean\n"
+"#\n"
+"#Discover and start the bonus level On the Open Ocean. [DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:334
+msgid ""
+"*Bonus Level: Skellington Arena\n"
+"#\n"
+"#Find and start the bonus level Skellington Arena."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:342
+msgid ""
+"-Hole in the Wall\n"
+"#\n"
+"#Who doesn't like extra coins?"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:351
+msgid ""
+"-Toad Tower Treasure\n"
+"#\n"
+"#Find Toad's hidden stash within his castle."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:359
+msgid ""
+"-Toad Castle Dungeon\n"
+"#\n"
+"#Find the alternate route through Toad Castle."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:368
+msgid ""
+"-A Little Help\n"
+"#\n"
+"#No sense in Tux attacking the Airship while small."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:376
+msgid ""
+"-Fire in the Sky\n"
+"#\n"
+"#Discover the fire-flower on Flathead's Airship."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:384
+msgid ""
+"-Do Over\n"
+"#\n"
+"#Find any one of two respawn bells on Flathead's Airship"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:392
+msgid ""
+"-Something for Your Trouble\n"
+"#\n"
+"#Find the Tux doll on Flathead's Airship"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:401
+msgid ""
+"-Trophy Room\n"
+"#\n"
+"*Find the Trophy Room (hint: you're in it right now)."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:415
+msgid ""
+"-Master of Secrets\n"
+"#\n"
+"*Discover every secret area within DOOM Islands. [DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:423
+msgid ""
+"-The Coin Collector\n"
+"#\n"
+"*Collect all the coins from each level within DOOM Islands. [DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:431
+msgid ""
+"-Roadrunner\n"
+"#\n"
+"*Complete DOOM Islands with best times totalling less than ### seconds. "
+"[DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:439
+msgid ""
+"-DOOMBRINGER\n"
+"#\n"
+"*Eliminate every unique foe from within DOOM Islands. [DISABLED]"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:460
+msgid ""
+"*---WARNING!---\n"
+"#Pressing this button will reset all your trophies and level statistics.\n"
+"-DO NOT PUSH"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/DecrepitCastle.stl:3
+msgid "Decrepit Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/Iceborer.stl:3
+msgid "Den of the Iceborer"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Day.stl:3
+msgid "    - A Brand New Day"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Dunes.stl:3
+msgid "01 - Frosted Dunes"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Escape.stl:3
+msgid "13 - Castle Escape"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Floodlands.stl:3
+msgid "  02  - Floodlands"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Geode.stl:3
+msgid "05 - The Giant Geode"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Geode.stl:30
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Pipes.stl:237
+msgid "!levels/mattie_world/images/decal/explanations/helpboard_badflower.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Glorious.stl:3
+msgid "Glorious Crossing"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_IceFire.stl:3
+msgid "Ice and Fire"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_IceFire.stl:401
+msgid ""
+"-Blue Coins\n"
+"#5 blue coins in an instance of this level gains 3 Tux dolls.\n"
+"!levels/mattie_world/images/decal/explanations/info_bluecoin_5.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Pipes.stl:3
+msgid "04 - Pipe Maze"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Pipes.stl:236
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_HighRoute.stl:130
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Mineshaft.stl:92
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_HighRoute.stl:57
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Mineshaft.stl:43
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_HighRoute.stl:197
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Mineshaft.stl:47
+msgid "!levels/mattie_world/images/decal/explanations/helpboard_pipe.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Primed.stl:3
+msgid "  Primed for Action  "
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_RockClimbing.stl:3
+msgid "    - Rock Climbing"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_RockClimbing.stl:19
+msgid ""
+"-Welcome to the base of the mountain!\n"
+"#\n"
+"#The door to your left leads to the easy, and 'stress free' way up.\n"
+"#\n"
+"#To your right lies the door for the difficult route, which offers a more "
+"rewarding experience."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_SkyFall.stl:3
+msgid "    - The Sky is Falling"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Thomp.stl:3
+msgid "03 - The Crushed Garden"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Thomp.stl:215
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_DOOM.stl:123
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Fields.stl:70
+msgid ""
+"-Blue Coins\n"
+"#3 blue coins in an instance of this level gains 2 Tux dolls.\n"
+"!levels/mattie_world/images/decal/explanations/info_bluecoin_3.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_Tundra.stl:3
+msgid "The Thawing Tundra"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/L_UnderAir.stl:3
+msgid "  06  - Under the Airship"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/ToadCastle.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/ToadCastle.stl:3
+msgid "Toad's Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/Toad_Entry.stl:3
+msgid "Entrance to Toad Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/Yeti.stl:3
+msgid "Decrepit Yeti"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:3
+msgid "DOOM Islands"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:27
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:35
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:26
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:42
+msgid "You found a secret place!"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:43
+msgid "You found a secret behind the castle!"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:189
+msgid "Back to Mattie's Iceberg"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/doom_islands/worldmap.stwm:196
+msgid "Go Home"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/easyworldmap.stwm:3
+#: src/lmh-matties-world/levels/mattie_world/hardworldmap.stwm:3
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:3
+msgid "Mattie's Iceberg"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/easyworldmap.stwm:21
+msgid "Go home"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/hardworldmap.stwm:22
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:64
+msgid "Preview of DOOM Islands"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/AbandonedCastle.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/MidwayCastle.stl:3
+msgid "Midway Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Cavern.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Cavern.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Cavern.stl:3
+msgid "08 - Through the Crystal Cavern"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_DOOM.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_DOOM.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_DOOM.stl:3
+msgid "01 - A Day of DOOM"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Dungeon.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Dungeon.stl:3
+msgid "05 - Dusky Dungeon"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Escape.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Escape.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Escape.stl:3
+msgid "  13  - Castle Escape"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Fields.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Fields.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Fields.stl:3
+msgid "02 - Squishy Fields"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_HighRoute.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_HighRoute.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_HighRoute.stl:3
+msgid "06 - The High Route"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Mineshaft.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Mineshaft.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Mineshaft.stl:3
+msgid "04 - Down the Mineshaft"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Moat.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Moat.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Moat.stl:3
+msgid "12 - Across the Moat"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_MtnPass.stl:3
+msgid "The Mountain Pass"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_MtnPass.stl:357
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_MtnPass.stl:357
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_MtnPass.stl:494
+msgid ""
+"- Climbing\n"
+"# Tux can climb!  Press the UP key to start climbing.  Press the ACTION key "
+"or jump to let go."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Quarry.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Quarry.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Quarry.stl:3
+msgid "03 - Quarrelsome Quarry"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_ScarySkies.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_ScarySkies.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_ScarySkies.stl:3
+msgid "07 - Scary Skies"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_ThreeLanterns.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_ThreeLanterns.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_ThreeLanterns.stl:3
+msgid "09 - Three Magic Lanterns"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/D_Wall.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_Wall.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Wall.stl:3
+msgid "10 - Over the Great Wall"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/E_MtnPass.stl:3
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_MtnPass.stl:3
+msgid "11 - The Mountain Pass"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/GardenCastle.stl:3
+msgid "Garden Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/LSD.stl:3
+msgid "Bonus Level: Little Strange Day"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/LSD.stl:28
+msgid "!levels/mattie_world/images/LMH/hint-01.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_DOOM.stl:19
+msgid ""
+"- Welcome to Mattie's Iceberg\n"
+"#\n"
+"# If you find that the difficulty of these levels does not accommodate your "
+"needs, try checking out the time machine behind the igloo on the worldmap."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Dungeon.stl:3
+msgid "  05  - Dusky Dungeon"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Meltbox.stl:3
+msgid "11 - Beware of Fire"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/L_Moat.stl:79
+msgid ""
+"-WARNING!\n"
+"#\n"
+"#Water infested with angry bitefish.\n"
+"#\n"
+"#Do not swim."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/MysteriousCastle.stl:3
+msgid "A Mysterious Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Oasis.stl:3
+msgid "Oasis:  The Bonus Forest Level"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Oasis.stl:25
+msgid "!levels/mattie_world/images/LMH/hint-03.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/S_Airship.stl:3
+msgid "Super Secret Bonus Level: Ambassador Flathead's Airship"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/S_Airship.stl:503
+msgid ""
+"\n"
+"-Flathead's Quarters #\n"
+"# KEEP OUT!\n"
+"#'Captain's busy... so should you be.'\n"
+"      "
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/S_Mineshaft.stl:3
+msgid "Super Secret Bonus Level: Upside-Down Mine Shaft"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/S_ToadCastle.stl:3
+msgid "Super Secret Bonus Level: Original Concept Toad Castle"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:3
+msgid "  The Shop  "
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:128
+msgid ""
+"-Welcome to The Shop\n"
+"#Completing level statistics in the regular levels will allow you to "
+"purchase powerups here to aid in your journey."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:131
+msgid ""
+"-Progress Poles\n"
+"#Your progress in collecting coins, killing enemies, and speedy completion "
+"is tracked on the poles to your left.  Each dot represents a level starting "
+"with level 1 at the bottom.  Dots turn green when progress is completed."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:134
+msgid ""
+"-Powerups for Purchase\n"
+"#Below are the powerups currently available for purchase.  As more progress "
+"is completed, powerups become available from left to right."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:137
+msgid ""
+"-Star Stones\n"
+"#Finding all three star stones will allow you to gain Ultimate "
+"Invulnerability.  This ability will be activated and deactivated by placing "
+"the stones on the ledge to your right."
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:141
+msgid ""
+"*Teir 1 Reward\n"
+"#Purchase an egg for 50 coins"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:146
+msgid ""
+"*Teir 2 Reward\n"
+"#Purchase a 2x iceflower for 200 coins"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:151
+msgid ""
+"*Teir 3 Reward\n"
+"#Purchase a 3x fireflower for 600 coins"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:157
+msgid ""
+"*---WARNING!---\n"
+"#Pressing this button will reset all your progress.\n"
+"-DO NOT PUSH"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Waldo.stl:3
+msgid "Bonus Level: Where's Waldo?"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Waldo.stl:50
+msgid "!levels/mattie_world/images/LMH/hint-02.png"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:34
+msgid "Penguins shouldn't do drugs!"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:51
+msgid "Um, are you lost?"
+msgstr ""
+
+#: src/lmh-matties-world/levels/mattie_world/worldmap.stwm:57
+msgid "...so you think you're so clever"
+msgstr ""

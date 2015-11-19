@@ -1,0 +1,279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/bonus.stl:3
+msgid "Bonus Level"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/extro1.txt:6
+msgid ""
+"-The end of the castle\r\n"
+"\r\n"
+"#As Tux reached the end of the castle,\r\n"
+"#he realized that the yeti that all\r\n"
+"#the minions had been guarding was not\r\n"
+"#in the castle.\r\n"
+"\r\n"
+"#But in the corner, hidden in a pile\r\n"
+"#of dust, Tux noticed there was a map.\r\n"
+"#the map showed Tux that there was a\r\n"
+"#secret passageway leading out of the\r\n"
+"#side of the castle out to the sea.\r\n"
+"\r\n"
+"#Tux saw that to the north-east there\r\n"
+"#was a small island that appeared to be\r\n"
+"#the retreat of the yeti.\r\n"
+"\r\n"
+"#Tux left the castle through the secret\r\n"
+"#passageway and swam in the direction\r\n"
+"#of the island determined to find the\r\n"
+"#oppressor of The Valley Of Chaos...."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/extro2.txt:6
+msgid ""
+"-The Valley Of Chaos\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"*Congratulations!\r\n"
+"\r\n"
+"*You beat this worldmap!\r\n"
+"\r\n"
+"*Thanks for playing\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"*Please go to the Bug Tracker and help\r\n"
+"*make The Valley Of Chaos better at:\r\n"
+"*https://supertux.lethargik.org/bugs/view.php?id=886\r\n"
+" bug #0000748\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"*Special thanks to:\r\n"
+"*CT da'Bomb\r\n"
+"*Everyone on the Bug Tracker\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"*Designed by:\r\n"
+"*semajD\r\n"
+"\r\n"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:3
+msgid "A Rough Landing"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:73
+msgid ""
+"#Welcome to The Valley Of Chaos! You are still hundereds of feet above "
+"ground, and will enter the valley when you go down. An arrow will point the "
+"way."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:78
+msgid ""
+"#The Valley Of Chaos used to be a peacful place, where the snowballs, "
+"snowmen, and ice cubes lived together in harmony...."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:83
+msgid ""
+"#Then one day, an evil yeti flew his plane to this valley and cast a spell "
+"over the entire valley. This caused the inhabitants to try to kill all "
+"strangers."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:88
+msgid ""
+"#The yeti flew his plane to a remote area of the island on which the valley "
+"is located and has remained in hiding ever since. The yeti lives in his "
+"castle with all his metal minions, hiding from all those who seek to kill "
+"him and put an end to the inhabitants' misery!"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level10.stl:3
+msgid "Out Of The Cave"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level11.stl:3
+msgid "Red Sky At Night, Sailor's Delight"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level12.stl:3
+msgid "A Snowy Night"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level13.stl:3
+msgid "The Green House"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level14.stl:3
+msgid "Up The Mountain"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level15.stl:3
+msgid "Down The Mountain"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level16.stl:3
+msgid "Snowfall At Sunset"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level17.stl:3
+msgid "Broken Bridge"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level17.stl:48
+msgid ""
+"#You have now entered enemy territory. Now you will only see metal minions. "
+"They do not want you to cross the bridge and get to the castle."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level18.stl:3
+msgid "Assult On The Bridge"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level19.stl:3
+msgid "The Minions Are Ready"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level2.stl:3
+msgid "Still High Up"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level2.stl:155
+msgid ""
+"#You still have not reached the valley yet. You must go down at the next "
+"designated spot or you will die."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level20.stl:3
+msgid "Into The Castle"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level21.stl:3
+msgid "The Castle of Chaos"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level22.stl:3
+msgid "Off To Find A Yeti"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level23.stl:3
+msgid "The Yeti's Cave"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level23.stl:48
+msgid ""
+"#Once you go into the yeti's cave, there is no coming out until he is dead"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:3
+msgid "Leaving The Valley Of Chaos"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:20
+msgid ""
+"#As the yeti was killed, everyone in the valley was released from there "
+"spell cast on them by the yeti"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:25
+msgid ""
+"#Just over the hill Tux saw the yeti's plane, but he was tired and hungry, "
+"so he went into the igloo and left in the plane in the morning"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:30
+msgid ""
+"#Everyone went back to their former way of life, and all the minions went "
+"away"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level3.stl:3
+msgid "A Tough Path Down"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level3.stl:52
+msgid ""
+"#The way down from here used to be an imposible path, so the inhabitants "
+"added some stones and blocks to make the decent easier."
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level3.stl:57
+msgid ""
+"#But ever since the yeti's takeover, the path has become worn down and "
+"crumbily. Be careful!"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level4.stl:3
+msgid "Into The Valley (finally....)"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level4.stl:43
+msgid ""
+"#Once you enter the igloo, an elevator will take you down into the "
+"valley.... have fun!"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:3
+msgid "The Crowded Downtown"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:517
+msgid "#You have entered a badguys' headquarters.... Beware!"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:522
+msgid "#Are you ready to enter the cave?"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level6.stl:3
+msgid "Down In The Mines"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level7.stl:3
+msgid "Down To The Prison"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level7.stl:212
+msgid ""
+"#You have entered a prison gaurded by many metal minions. Watch your step!"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level8.stl:3
+msgid "Prison Detour"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level9.stl:3
+msgid "The Pirates' Buried Treasure"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/worldmap.stwm:3
+msgid "The Valley Of Chaos"
+msgstr ""
+
+#: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/worldmap.stwm:11
+msgid "You found a Secret Level!"
+msgstr ""
