@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"POT-Creation-Date: 2015-11-21 12:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,7 +151,7 @@ msgid ""
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level18.stl:3
-msgid "Assult On The Bridge"
+msgid "Assault On The Bridge"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level19.stl:3

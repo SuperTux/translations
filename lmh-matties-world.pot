@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"POT-Creation-Date: 2015-11-21 12:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,7 +67,7 @@ msgid "Bonus Level: Skellington Arena"
 msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/doom_islands/B_SavagedLands.stl:3
-msgid "Bouns Level: Savaged Lands"
+msgid "Bonus Level: Savaged Lands"
 msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:3
@@ -114,7 +114,7 @@ msgstr ""
 msgid ""
 "-The Hard Way\n"
 "#\n"
-"#In Rock Climbing take the hard path to the top without dieing or taking "
+"#In Rock Climbing take the hard path to the top without dying or taking "
 "shortcuts."
 msgstr ""
 
@@ -185,7 +185,7 @@ msgstr ""
 msgid ""
 "-Do Over\n"
 "#\n"
-"#Find any one of two respawn bells on Flathead's Airship"
+"#Find one of the two respawn bells on Flathead's Airship"
 msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/doom_islands/B_TrophyRoom.stl:392

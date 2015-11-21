@@ -56,10 +56,6 @@ msgstr ""
 msgid ".You need to find the 5 coins before you can get through."
 msgstr ""
 
-#: src/ctdabomb-worldmaps/levels/CT's Domain/for-cristoph4.stl:3
-msgid "Cristoph4.stl"
-msgstr ""
-
 #: src/ctdabomb-worldmaps/levels/CT's Domain/for-frogs.stl:3
 msgid "Those Waves of Frogs"
 msgstr ""
@@ -309,7 +305,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 23:10+0100\n"
+"POT-Creation-Date: 2015-11-21 12:56+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
