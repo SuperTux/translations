@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 23:37+0100\n"
+"POT-Creation-Date: 2015-11-21 12:40+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,7 +109,7 @@ msgid "Too easy"
 msgstr ""
 
 #: data/levels/bonus1/torfi-level2.stl:42
-msgid "#These all levels are upgraded to milestone 2 design by Hume2."
+msgid "#All these levels were upgraded to milestone 2 design by Hume2."
 msgstr ""
 
 #: data/levels/bonus1/torfi-level3.stl:3
