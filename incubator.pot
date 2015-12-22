@@ -1,21 +1,75 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
-msgid ""
+#: data/levels/incubator/Angry Stone vs. YOU.stl:3
+msgid "Angry Stone vs. YOU"
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 23:37+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8bit\n"
+
+#: data/levels/incubator/Angry Stone vs. YOU.stl:307
+msgid ""
+"#Du aktivierst Schalter mit dieser Taste:\r\n"
+"#\r\n"
+"#\r\n"
+"#You activate switches with this button:\r\n"
+"!images/tiles/signs/up.png"
+msgstr ""
+
+#: data/levels/incubator/Castle #1.stl:3
+msgid "Castle #1"
+msgstr ""
+
+#: data/levels/incubator/Missingno.stl:3
+msgid "Missingno"
+msgstr ""
+
+#: data/levels/incubator/Missingno.stl:530
+msgid ""
+"#Sei geduldig!\r\n"
+"#\r\n"
+"#Be patient!"
+msgstr ""
+
+#: data/levels/incubator/Missingno.stl:537
+msgid ""
+"#Nicht bewegen beim Flug!\r\n"
+"#Gib Acht bei der Landung!\r\n"
+"#\r\n"
+"#Dont move while flying!\r\n"
+"#Pay attention at landing!"
+msgstr ""
+
+#: data/levels/incubator/NewIcelevel1.stl:3
+msgid "Blue iced hills"
+msgstr ""
+
+#: data/levels/incubator/NewIcelevel2.stl:3
+msgid "Bads mountains"
+msgstr ""
+
+#: data/levels/incubator/NewIcelevel3.stl:3
+msgid "eman level ehT <---"
+msgstr ""
+
+#: data/levels/incubator/NewIcelevel4.stl:3
+msgid "Ice sea"
+msgstr ""
+
+#: data/levels/incubator/NewIcelevel5.stl:3
+msgid "Electric-Wood factory"
+msgstr ""
+
+#: data/levels/incubator/Nice Ice.stl:3
+msgid "Nice Ice"
+msgstr ""
+
+#: data/levels/incubator/Nice Ice.stl:88
+msgid ""
+"#Verwenden Sie den Feind, um dieses Level zu beenden!\r\n"
+"#\r\n"
+"#\r\n"
+"#Use the enemy to finish this level!"
+msgstr ""
+
+#: data/levels/incubator/SP33DRUN.stl:3
+msgid "SP33DRUN"
+msgstr ""
 
 #: data/levels/incubator/cave_run.stl:3
 msgid "Cave Run"
@@ -29,8 +83,24 @@ msgstr ""
 msgid "Mad Ysonn Cube Garden"
 msgstr ""
 
+#: data/levels/incubator/fall_kugelblitz.stl:3
+msgid "Kugelblitzstorm"
+msgstr ""
+
 #: data/levels/incubator/frozen_fissure.stl:3
 msgid "Frozen Fissure"
+msgstr ""
+
+#: data/levels/incubator/hungry_tux.stl:3
+msgid "Tux is hungry!"
+msgstr ""
+
+#: data/levels/incubator/ice_mountain.stl:3
+msgid "Crystal Mountain"
+msgstr ""
+
+#: data/levels/incubator/in_the_mountain.stl:3
+msgid "In the mountain"
 msgstr ""
 
 #: data/levels/incubator/into_dark.stl:3
@@ -51,8 +121,89 @@ msgstr ""
 msgid "The Jagged Path"
 msgstr ""
 
+#: data/levels/incubator/let_us_snow.stl:3
+msgid "Let us snow!"
+msgstr ""
+
+#: data/levels/incubator/let_us_snow.stl:223
+msgid ""
+"-Warning!\r\n"
+"#Beware the falling enemies!"
+msgstr ""
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: data/levels/incubator/let_us_snow.stl:229
+#: data/levels/incubator/let_us_snow.stl:234
+#: data/levels/incubator/let_us_snow.stl:239
+#: data/levels/incubator/let_us_snow.stl:244
+#: data/levels/incubator/let_us_snow.stl:249
+#: data/levels/incubator/let_us_snow.stl:254
+#: data/levels/incubator/let_us_snow.stl:259
+#: data/levels/incubator/let_us_snow.stl:264
+#: data/levels/incubator/let_us_snow.stl:269
+#: data/levels/incubator/let_us_snow.stl:274
+#: data/levels/incubator/let_us_snow.stl:279
+#: data/levels/incubator/let_us_snow.stl:284
+#: data/levels/incubator/let_us_snow.stl:289
+#: data/levels/incubator/let_us_snow.stl:294
+#: data/levels/incubator/let_us_snow.stl:299
+#: data/levels/incubator/let_us_snow.stl:304
+#: data/levels/incubator/let_us_snow.stl:309
+#: data/levels/incubator/let_us_snow.stl:314
+#: data/levels/incubator/let_us_snow.stl:319
+#: data/levels/incubator/let_us_snow.stl:324
+#: data/levels/incubator/let_us_snow.stl:329
+#: data/levels/incubator/let_us_snow.stl:334
+#: data/levels/incubator/let_us_snow.stl:339
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-22 13:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/levels/incubator/long.stl:3
+msgid "A long adventure"
+msgstr ""
+
+#: data/levels/incubator/long.stl:1579
+msgid ""
+"#Until this moment you have luck.\r\n"
+"#You get hardly here.\r\n"
+"#You still have a lot way to go.\r\n"
+"#It certainly know well.\r\n"
+"#Even now you must not fail it.\r\n"
+"#Now go down into the shaft.\r\n"
+"#I think you are understand it."
+msgstr ""
+
+#: data/levels/incubator/long.stl:3997
+msgid ""
+"-Congratulations!\r\n"
+"#You are in half the level! "
+msgstr ""
+
+#: data/levels/incubator/long.stl:4549
+msgid "-You are going wrong!"
+msgstr ""
+
 #: data/levels/incubator/midnight_crossing.stl:3
 msgid "Midnight Crossing"
+msgstr ""
+
+#: data/levels/incubator/mountain_climbing.stl:3
+msgid "Mountain climbing"
 msgstr ""
 
 #: data/levels/incubator/not_so_long.stl:3

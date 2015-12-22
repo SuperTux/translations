@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-29 18:41+0100\n"
+"POT-Creation-Date: 2015-12-22 13:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/control/joystick_config.cpp:83
+#: src/control/joystick_config.cpp:84
 msgid "Joystick Mappings"
 msgstr ""
 
@@ -200,93 +200,93 @@ msgstr ""
 msgid "%s \"%s\" by \"%s\""
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:131
+#: src/supertux/menu/addon_menu.cpp:139
 msgid "Language packs"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:135 src/supertux/menu/main_menu.cpp:44
+#: src/supertux/menu/addon_menu.cpp:143 src/supertux/menu/main_menu.cpp:44
 msgid "Add-ons"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:141
+#: src/supertux/menu/addon_menu.cpp:149
 msgid "View Language Packs"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:145
+#: src/supertux/menu/addon_menu.cpp:153
 msgid "View Add-ons"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:154
+#: src/supertux/menu/addon_menu.cpp:162
 msgid "No Language packs installed"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:158
+#: src/supertux/menu/addon_menu.cpp:166
 msgid "No Add-ons installed"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:165
+#: src/supertux/menu/addon_menu.cpp:173
 msgid "No Language packs found"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:169
+#: src/supertux/menu/addon_menu.cpp:177
 msgid "No Add-ons found"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:216
+#: src/supertux/menu/addon_menu.cpp:224
 #, c-format
 msgid "Install %s *NEW*"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:227
+#: src/supertux/menu/addon_menu.cpp:235
 #, c-format
 msgid "Install %s"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:238
+#: src/supertux/menu/addon_menu.cpp:246
 msgid "No new Language packs found"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:242
+#: src/supertux/menu/addon_menu.cpp:250
 msgid "No new Add-ons found"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:249
+#: src/supertux/menu/addon_menu.cpp:257
 msgid "Check Online (disabled)"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:253
+#: src/supertux/menu/addon_menu.cpp:261
 msgid "Check Online"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:257 src/supertux/menu/cheat_menu.cpp:41
+#: src/supertux/menu/addon_menu.cpp:265 src/supertux/menu/cheat_menu.cpp:41
 #: src/supertux/menu/contrib_levelset_menu.cpp:69
 #: src/supertux/menu/contrib_menu.cpp:141
 #: src/supertux/menu/joystick_menu.cpp:98
 #: src/supertux/menu/keyboard_menu.cpp:49
-#: src/supertux/menu/language_menu.cpp:50
+#: src/supertux/menu/language_menu.cpp:52
 #: src/supertux/menu/options_menu.cpp:238 src/supertux/menu/profile_menu.cpp:47
 #: src/supertux/menu/world_set_menu.cpp:44
 #: src/supertux/menu/worldmap_cheat_menu.cpp:44
 msgid "Back"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:277
+#: src/supertux/menu/addon_menu.cpp:346
 msgid "Downloading Add-On Repository Index"
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:310
+#: src/supertux/menu/addon_menu.cpp:361
+#, c-format
+msgid "Downloading %s"
+msgstr ""
+
+#: src/supertux/menu/addon_menu.cpp:408
 msgid ""
 "Please restart SuperTux\n"
 "for these changes to take effect."
 msgstr ""
 
-#: src/supertux/menu/addon_menu.cpp:311
+#: src/supertux/menu/addon_menu.cpp:409
 msgid "OK"
-msgstr ""
-
-#: src/supertux/menu/addon_menu.cpp:343
-#, c-format
-msgid "Downloading %s"
 msgstr ""
 
 #: src/supertux/menu/cheat_menu.cpp:29
@@ -345,19 +345,19 @@ msgstr ""
 msgid "*NEW*"
 msgstr ""
 
-#: src/supertux/menu/download_dialog.cpp:28
+#: src/supertux/menu/download_dialog.cpp:29
 msgid "Abort Download"
 msgstr ""
 
-#: src/supertux/menu/download_dialog.cpp:44
+#: src/supertux/menu/download_dialog.cpp:45
 msgid "Error:\n"
 msgstr ""
 
-#: src/supertux/menu/download_dialog.cpp:45
+#: src/supertux/menu/download_dialog.cpp:46
 msgid "Ok"
 msgstr ""
 
-#: src/supertux/menu/download_dialog.cpp:94
+#: src/supertux/menu/download_dialog.cpp:101
 msgid "Close"
 msgstr ""
 
@@ -543,11 +543,11 @@ msgstr ""
 msgid "Press Key"
 msgstr ""
 
-#: src/supertux/menu/language_menu.cpp:37
+#: src/supertux/menu/language_menu.cpp:39
 msgid "Language"
 msgstr ""
 
-#: src/supertux/menu/language_menu.cpp:39
+#: src/supertux/menu/language_menu.cpp:41
 msgid "<auto-detect>"
 msgstr ""
 
@@ -780,6 +780,6 @@ msgstr ""
 msgid "You found a secret area!"
 msgstr ""
 
-#: src/worldmap/worldmap.cpp:349
+#: src/worldmap/worldmap.cpp:338
 msgid "<no title>"
 msgstr ""
