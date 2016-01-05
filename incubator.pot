@@ -51,11 +51,7 @@ msgid "Nice Ice"
 msgstr ""
 
 #: data/levels/incubator/Nice Ice.stl:88
-msgid ""
-"#Verwenden Sie den Feind, um dieses Level zu beenden!\r\n"
-"#\r\n"
-"#\r\n"
-"#Use the enemy to finish this level!"
+msgid "#Use the enemy to finish this level!"
 msgstr ""
 
 #: data/levels/incubator/SP33DRUN.stl:3
@@ -155,7 +151,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-05 17:04+0100\n"
+"POT-Creation-Date: 2016-01-05 17:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
