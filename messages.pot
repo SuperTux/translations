@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-22 13:02+0100\n"
+"POT-Creation-Date: 2016-01-05 17:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,132 +21,138 @@ msgstr ""
 msgid "Joystick Mappings"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:73
+#: src/supertux/command_line_arguments.cpp:76
 #, c-format
 msgid "Usage: %s [OPTIONS] [LEVELFILE]"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:74
+#: src/supertux/command_line_arguments.cpp:77
 msgid "General Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:75
+#: src/supertux/command_line_arguments.cpp:78
 msgid "  -h, --help                   Show this help message and quit"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:76
+#: src/supertux/command_line_arguments.cpp:79
 msgid "  -v, --version                Show SuperTux version and quit"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:77
+#: src/supertux/command_line_arguments.cpp:80
 msgid "  --verbose                    Print verbose messages"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:78
+#: src/supertux/command_line_arguments.cpp:81
 msgid "  --debug                      Print extra verbose messages"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:79
+#: src/supertux/command_line_arguments.cpp:82
 msgid "  --print-datadir              Print supertux's primary data directory."
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:80
+#: src/supertux/command_line_arguments.cpp:83
 msgid "Video Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:81
+#: src/supertux/command_line_arguments.cpp:84
 msgid "  -f, --fullscreen             Run in fullscreen mode"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:82
+#: src/supertux/command_line_arguments.cpp:85
 msgid "  -w, --window                 Run in window mode"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:83
+#: src/supertux/command_line_arguments.cpp:86
 msgid "  -g, --geometry WIDTHxHEIGHT  Run SuperTux in given resolution"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:84
+#: src/supertux/command_line_arguments.cpp:87
 msgid "  -a, --aspect WIDTH:HEIGHT    Run SuperTux with given aspect ratio"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:85
+#: src/supertux/command_line_arguments.cpp:88
 msgid "  -d, --default                Reset video settings to default values"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:86
+#: src/supertux/command_line_arguments.cpp:89
 msgid "  --renderer RENDERER          Use sdl, opengl, or auto to render"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:87
+#: src/supertux/command_line_arguments.cpp:90
 msgid "Audio Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:88
+#: src/supertux/command_line_arguments.cpp:91
 msgid "  --disable-sound              Disable sound effects"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:89
+#: src/supertux/command_line_arguments.cpp:92
 msgid "  --disable-music              Disable music"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:90
+#: src/supertux/command_line_arguments.cpp:93
 msgid "Game Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:91
+#: src/supertux/command_line_arguments.cpp:94
 msgid "  --show-fps                   Display framerate in levels"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:92
+#: src/supertux/command_line_arguments.cpp:95
 msgid "  --no-show-fps                Do not display framerate in levels"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:93
+#: src/supertux/command_line_arguments.cpp:96
 msgid "  --developer                  Switch on developer feature"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:94
+#: src/supertux/command_line_arguments.cpp:97
 msgid "  -s, --debug-scripts          Enable script debugger."
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:95
-msgid "Demo Recording Options:"
-msgstr ""
-
-#: src/supertux/command_line_arguments.cpp:96
-msgid "  --record-demo FILE LEVEL     Record a demo to FILE"
-msgstr ""
-
-#: src/supertux/command_line_arguments.cpp:97
-msgid "  --play-demo FILE LEVEL       Play a recorded demo"
-msgstr ""
-
 #: src/supertux/command_line_arguments.cpp:98
-msgid "Directory Options:"
+msgid ""
+"  --spawn-pos X,Y              Where in the level to spawn Tux. Only used if "
+"level is specified."
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:99
+msgid "Demo Recording Options:"
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:100
+msgid "  --record-demo FILE LEVEL     Record a demo to FILE"
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:101
+msgid "  --play-demo FILE LEVEL       Play a recorded demo"
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:102
+msgid "Directory Options:"
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:103
 msgid ""
 "  --datadir DIR                Set the directory for the games datafiles"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:100
+#: src/supertux/command_line_arguments.cpp:104
 msgid ""
 "  --userdir DIR                Set the directory for user data (savegames, "
 "etc.)"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:101
+#: src/supertux/command_line_arguments.cpp:105
 msgid "Environment variables:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:102
+#: src/supertux/command_line_arguments.cpp:106
 msgid ""
 "  SUPERTUX2_USER_DIR           Directory for user data (savegames, etc.)"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:103
+#: src/supertux/command_line_arguments.cpp:107
 msgid "  SUPERTUX2_DATA_DIR           Directory for the games datafiles"
 msgstr ""
 
@@ -770,10 +776,6 @@ msgid ""
 "This game comes with ABSOLUTELY NO WARRANTY. This is free software, and you "
 "are welcome to\n"
 "redistribute it under certain conditions; see the file LICENSE for details.\n"
-msgstr ""
-
-#: src/trigger/climbable.cpp:78
-msgid "Up we go..."
 msgstr ""
 
 #: src/trigger/secretarea_trigger.cpp:47 src/trigger/secretarea_trigger.cpp:57

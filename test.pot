@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-22 13:03+0100\n"
+"POT-Creation-Date: 2016-01-05 17:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,6 +23,10 @@ msgstr ""
 
 #: data/levels/test/bicycle_platform.stl:3
 msgid "Bicycle Platform Test"
+msgstr ""
+
+#: data/levels/test/bomb test..stl:4
+msgid "Bomb test"
 msgstr ""
 
 #: data/levels/test/bonusblock.stl:3
@@ -106,6 +110,18 @@ msgstr ""
 
 #: data/levels/test/chain.stl:3
 msgid "Chain test"
+msgstr ""
+
+#: data/levels/test/climbablemessage.stl:3
+msgid "Climbable message test"
+msgstr ""
+
+#: data/levels/test/climbablemessage.stl:14
+msgid "Up we go..."
+msgstr ""
+
+#: data/levels/test/climbablemessage.stl:21
+msgid "Let's go down..."
 msgstr ""
 
 #: data/levels/test/crystalcave.stl:3
@@ -262,6 +278,10 @@ msgstr ""
 
 #: data/levels/test/stacking.stl:60
 msgid "images/powerups/egg/egg.sprite"
+msgstr ""
+
+#: data/levels/test/test.stl:4
+msgid "Something really fun"
 msgstr ""
 
 #: data/levels/test/tileplatforms.stl:3
