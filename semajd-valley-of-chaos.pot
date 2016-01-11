@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-21 12:56+0100\n"
+"POT-Creation-Date: 2016-01-11 21:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgid ""
 "#Tux left the castle through the secret\r\n"
 "#passageway and swam in the direction\r\n"
 "#of the island determined to find the\r\n"
-"#oppressor of The Valley Of Chaos...."
+"#oppressor of The Valley Of Chaos..."
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/extro2.txt:6
@@ -93,8 +93,8 @@ msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:78
 msgid ""
-"#The Valley Of Chaos used to be a peacful place, where the snowballs, "
-"snowmen, and ice cubes lived together in harmony...."
+"#The Valley Of Chaos used to be a peaceful place, where the snowballs, "
+"snowmen, and ice cubes lived together in harmony..."
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level1.stl:83
@@ -217,24 +217,24 @@ msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level3.stl:52
 msgid ""
-"#The way down from here used to be an imposible path, so the inhabitants "
-"added some stones and blocks to make the decent easier."
+"#The way down from here used to be an impossible path, so the inhabitants "
+"added some stones and blocks to make the descent easier."
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level3.stl:57
 msgid ""
 "#But ever since the yeti's takeover, the path has become worn down and "
-"crumbily. Be careful!"
+"crumbly. Be careful!"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level4.stl:3
-msgid "Into The Valley (finally....)"
+msgid "Into The Valley (finally...)"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level4.stl:43
 msgid ""
-"#Once you enter the igloo, an elevator will take you down into the "
-"valley.... have fun!"
+"#Once you enter the igloo, an elevator will take you down into the valley... "
+"have fun!"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:3
@@ -242,7 +242,7 @@ msgid "The Crowded Downtown"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:517
-msgid "#You have entered a badguys' headquarters.... Beware!"
+msgid "#You have entered a badguys' headquarters... Beware!"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level5.stl:522
@@ -259,7 +259,7 @@ msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level7.stl:212
 msgid ""
-"#You have entered a prison gaurded by many metal minions. Watch your step!"
+"#You have entered a prison guarded by many metal minions. Watch your step!"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level8.stl:3

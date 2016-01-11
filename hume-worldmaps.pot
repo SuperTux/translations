@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-21 12:56+0100\n"
+"POT-Creation-Date: 2016-01-11 21:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,280 +22,280 @@ msgid "Six magic crystals (hard)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/6crystal.stl:436
-msgid "#Find two crystals for open this gate."
+msgid "#Find two crystals to open this gate."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/6crystal.stl:441
-msgid "#Find three crystals for open this gate."
+msgid "#Find three crystals to open this gate."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/6crystal.stl:446
 #: src/hume-worldmaps/levels/hume/6crystal.stl:451
 #: src/hume-worldmaps/levels/hume/6crystal.stl:456
-msgid "#Find four crystals for open this gate."
+msgid "#Find four crystals to open this gate."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/6crystal.stl:461
-msgid "#Find five crystals for complete opening this gate."
+msgid "#Find five crystals to complete opening this gate."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/6crystal.stl:466
-msgid "#Find six crystals for open this gate."
+msgid "#Find six crystals to open this gate."
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:3
+#: src/hume-worldmaps/levels/hume/archivement.stl:4
 #: src/hume-worldmaps/levels/hume_rainbow_cave/archivements.stl:3
-msgid "Unlocked archivements"
+msgid "Unlocked achievements"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:51
+#: src/hume-worldmaps/levels/hume/archivement.stl:52
 msgid ""
 "##1\r\n"
 "#play the first level"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:57
+#: src/hume-worldmaps/levels/hume/archivement.stl:58
 msgid ""
 "##2\r\n"
 "#get to the free room"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:63
+#: src/hume-worldmaps/levels/hume/archivement.stl:64
 msgid ""
 "##3\r\n"
-"#play level named unlocked archivements"
+"#play level named unlocked achievements"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:69
+#: src/hume-worldmaps/levels/hume/archivement.stl:70
 msgid ""
 "##4\r\n"
 "#find the secret level in the forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:75
+#: src/hume-worldmaps/levels/hume/archivement.stl:76
 msgid ""
 "##5\r\n"
-"#get for a help for archivements"
+"#get for a help for achievements"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:81
+#: src/hume-worldmaps/levels/hume/archivement.stl:82
 msgid ""
-"-Welcome in the archivements preview!\r\n"
-"#This level is completely only after unlock all archivements.\r\n"
-"#You can unlock archivements in this worldmap."
+"-Welcome in the achievements preview!\r\n"
+"#Unlock all these achievement to finish this level.\r\n"
+"#You can unlock achievements in this worldmap."
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:88
+#: src/hume-worldmaps/levels/hume/archivement.stl:89
 msgid ""
 "##6\r\n"
 "#pass trough the tunnel"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:94
+#: src/hume-worldmaps/levels/hume/archivement.stl:95
 msgid ""
 "##7\r\n"
-"#play the bonus level in icy sequence"
+"#play the bonus level in the icy sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:100
+#: src/hume-worldmaps/levels/hume/archivement.stl:101
 msgid ""
 "##8\r\n"
-"#find the secret level in icy sequence"
+"#find the secret level in the icy sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:106
+#: src/hume-worldmaps/levels/hume/archivement.stl:107
 msgid ""
 "##9\r\n"
-"#build the higherst totem"
+"#build the highest totem"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:112
+#: src/hume-worldmaps/levels/hume/archivement.stl:113
 msgid ""
 "##10\r\n"
-"#play a level in icy sequence"
+"#play a level in the icy sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:118
+#: src/hume-worldmaps/levels/hume/archivement.stl:119
 msgid ""
 "##11\r\n"
 "#kill a yeti"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:124
+#: src/hume-worldmaps/levels/hume/archivement.stl:125
 msgid ""
 "##12\r\n"
-"#use the deutor trough crystal sequence"
+"#use the detour trough the crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:130
+#: src/hume-worldmaps/levels/hume/archivement.stl:131
 msgid ""
 "##13\r\n"
-"#play a level in crystal sequence"
+"#play a level in the crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:136
+#: src/hume-worldmaps/levels/hume/archivement.stl:137
 msgid ""
 "##14\r\n"
-"#play the bonus level in crystal sequence"
+"#play the bonus level in the crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:142
+#: src/hume-worldmaps/levels/hume/archivement.stl:143
 msgid ""
 "##15\r\n"
-"#find the secret level in crystal sequence"
+"#find the secret level in the crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:148
+#: src/hume-worldmaps/levels/hume/archivement.stl:149
 msgid ""
 "##16\r\n"
-"#complete the deutor trough crystal sequence"
+"#complete the detour trough the crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:154
+#: src/hume-worldmaps/levels/hume/archivement.stl:155
 msgid ""
 "##17\r\n"
 "#find a secret platform"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:160
+#: src/hume-worldmaps/levels/hume/archivement.stl:161
 msgid ""
 "##18\r\n"
-"#double score"
+"#60s to double score"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:166
+#: src/hume-worldmaps/levels/hume/archivement.stl:167
 msgid ""
 "##19\r\n"
-"#play a level in dark-forest sequence"
+"#play a level in the dark-forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:172
+#: src/hume-worldmaps/levels/hume/archivement.stl:173
 msgid ""
 "##20\r\n"
 "#play the bonus level in dark-forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:178
+#: src/hume-worldmaps/levels/hume/archivement.stl:179
 msgid ""
 "##21\r\n"
 "#find the secret level in dark-forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:184
+#: src/hume-worldmaps/levels/hume/archivement.stl:185
 msgid ""
 "##22\r\n"
-"#do trough the boswer in dark-forest sequence"
+"#electrifying pass"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:190
+#: src/hume-worldmaps/levels/hume/archivement.stl:191
 msgid ""
 "##23\r\n"
-"#reach the impossible-hard level"
+"#finish the impossible-hard level"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:196
+#: src/hume-worldmaps/levels/hume/archivement.stl:197
 msgid ""
 "##24\r\n"
 "#pass, but not destoy"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:202
+#: src/hume-worldmaps/levels/hume/archivement.stl:203
 msgid ""
 "##25\r\n"
-"#play a level in water sequence"
+"#play a level in the water sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:208
+#: src/hume-worldmaps/levels/hume/archivement.stl:209
 msgid ""
 "##26\r\n"
 "#play the bonus level in water sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:214
+#: src/hume-worldmaps/levels/hume/archivement.stl:215
 msgid ""
 "##27\r\n"
 "#find the secret level in water sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:220
+#: src/hume-worldmaps/levels/hume/archivement.stl:221
 msgid ""
 "##28\r\n"
 "#clear all yetis on iceberg"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:226
+#: src/hume-worldmaps/levels/hume/archivement.stl:227
 msgid ""
 "##29\r\n"
 "#complete the hanoii game"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:232
+#: src/hume-worldmaps/levels/hume/archivement.stl:233
 msgid ""
 "##30\r\n"
 "#where trampolines continue?"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:238
+#: src/hume-worldmaps/levels/hume/archivement.stl:239
 msgid ""
 "##31\r\n"
 "#find the secret sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:244
+#: src/hume-worldmaps/levels/hume/archivement.stl:245
 msgid ""
 "##32\r\n"
-"#play a level in secret sequence"
+"#play a level in the secret sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:250
+#: src/hume-worldmaps/levels/hume/archivement.stl:251
 msgid ""
 "##33\r\n"
 "#play the non-secret bonus level in secret sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:256
+#: src/hume-worldmaps/levels/hume/archivement.stl:257
 msgid ""
 "##34\r\n"
-"#find the secret level in secret sequence"
+"#find the secret level in the secret sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:262
+#: src/hume-worldmaps/levels/hume/archivement.stl:263
 msgid ""
 "##35\r\n"
 "#best survivor"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:268
+#: src/hume-worldmaps/levels/hume/archivement.stl:269
 msgid ""
 "##36\r\n"
 "#I don't want bonus"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:274
-msgid "-Archivements from secret sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:275
+msgid "-achievements from secret sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:279
-msgid "-Archivements from forest sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:280
+msgid "-achievements from forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:284
-msgid "-Archivements from icy sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:285
+msgid "-achievements from icy sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:289
-msgid "-Archivements from crystal sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:290
+msgid "-achievements from crystal sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:294
-msgid "-Archivements from dark-forest sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:295
+msgid "-achievements from dark-forest sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:299
-msgid "-Archivements from water sequence"
+#: src/hume-worldmaps/levels/hume/archivement.stl:300
+msgid "-achievements from water sequence"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume/archivement.stl:304
+#: src/hume-worldmaps/levels/hume/archivement.stl:305
 msgid ""
 "!images/objects/bonus_block/full-0.png\r\n"
 " locked\r\n"
@@ -433,7 +433,7 @@ msgid "step by step (medium)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/secret5.stl:3
-msgid "A long way over ocean (hard)"
+msgid "A long way over the ocean (hard)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/snowhill.stl:3
@@ -449,7 +449,7 @@ msgid "behind the great iceberg (easy)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/ss-level3.stl:3
-msgid "Is there a shortest way than this? (medium)"
+msgid "Is there a shorter way than this? (medium)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/ss-level4.stl:3
@@ -468,7 +468,7 @@ msgid ""
 "!images/creatures/totem/walking3.png\r\n"
 " 1-bit totem\r\n"
 "t|\r\n"
-"t/\r\n"
+"t\\/\r\n"
 "!images/creatures/totem/stacked.png\r\n"
 "!images/creatures/totem/walking3.png\r\n"
 " 2-bit totem\r\n"
@@ -483,7 +483,7 @@ msgstr ""
 msgid ""
 "#Welcome to the base of the tower.\r\n"
 "#You can go down for some bonuses.\r\n"
-"#The main path leads up."
+"#The main path leads upwards."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/tower.stl:662
@@ -502,7 +502,7 @@ msgid "Trough the tunnel (boss)"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/tunel.stl:278
-msgid "#Boswer is behind that door."
+msgid "#Boss is behind that door."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume/water1.stl:3
@@ -539,9 +539,9 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/archivements.stl:20
 msgid ""
-"-Unlocked archivements\r\n"
-"#This level is finishable only after you unlock all archivements.\r\n"
-"#You can unlock these archivements in each level in this worldmap."
+"-Unlocked achievements\r\n"
+"#This level is finishable only after you unlock all achievements.\r\n"
+"#You can unlock these achievements in each level in this worldmap."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/archivements.stl:27
@@ -576,13 +576,13 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/blue6.stl:350
 msgid ""
-"#For\n"
+"#For\r\n"
 "-Non-epileptic"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/blue6.stl:356
 msgid ""
-"#For\n"
+"#For\r\n"
 "-Epileptic"
 msgstr ""
 
@@ -642,8 +642,8 @@ msgstr ""
 msgid "Mushroom room"
 msgstr ""
 
-#: src/hume-worldmaps/levels/hume_rainbow_cave/orange1.stl:3
-msgid "Tux never saw orange crystals"
+#: src/hume-worldmaps/levels/hume_rainbow_cave/orange1.stl:4
+msgid "Tux has never seen orange crystals"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/orange2.stl:3
@@ -686,49 +686,49 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:46
 msgid ""
-"#Remembre code:\n"
+"#Remembre code:\r\n"
 "*310412"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:52
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*489641"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:58
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*028976"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:64
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*360126"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:70
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*289221"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:76
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*265813"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:82
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*598126"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple2.stl:88
 msgid ""
-"#Remembre code:\n"
+"#Remember code:\r\n"
 "*360312"
 msgstr ""
 
@@ -770,8 +770,8 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple6.stl:1444
 msgid ""
-"#This is a way back home.\n"
-"#I hope you unlocked all archivements!"
+"#This is a way back home.\r\n"
+"#I hope you unlocked all achievements!"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/purple7.stl:3
@@ -784,99 +784,100 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:78
 msgid ""
-"-Welcome in Hume's rainbow cave!\n"
+"-Welcome in Hume's rainbow cave!\r\n"
 "#Go further for more information."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:84
 msgid ""
-"-Bonus crystals\n"
-"#You must unlock all archivements for win this worldmap.\n"
-"#You get one archivement if you reach all bonus crystals.\n"
-"#There are one bonus crystal in each level group.\n"
-"#One of them is above you.\n"
-"#If you won't go for the bonus cryctal, you can continue in this way."
+"-Bonus crystals\r\n"
+"#You must unlock all achievements to win this worldmap.\r\n"
+"#You get one achievement if you reach all bonus crystals.\r\n"
+"#There are one bonus crystal in each level group.\r\n"
+"#One of them is above you.\r\n"
+"#If you don't want to go for the bonus cryctal, you can continue in this way."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:94
 msgid ""
-"-Congratulations!\n"
-"#You get one bonus crystal.\n"
+"-Congratulations!\r\n"
+"#You get one bonus crystal.\r\n"
 "#There are seven bonus crystals in this worldmap."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:101
 msgid ""
-"-Level groups\n"
-"#There are seven level groups in this worldmap.\n"
-"#There are six levels in each level goup.\n"
-"#These level groups are named:\n"
-"*red, orange, yellow, green, blue, purple and white.\n"
-"#You get an archivement when you done all levels in each level group."
+"-Level groups\r\n"
+"#There are seven level groups in this worldmap.\r\n"
+"#There are six levels in each level goup.\r\n"
+"#These level groups are named:\r\n"
+"*red, orange, yellow, green, blue, purple and white.\r\n"
+"#You get an achievement when you done all levels in each level group."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:111
 msgid ""
-"-Congratulations!\n"
-"#You found one secret area.\n"
+"-Congratulations!\r\n"
+"#You found one secret area.\r\n"
 "#There are fourty two secret areas in this worldmap."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:118
 msgid ""
-"-System of level groups\n"
-"#You are in the red level group now.\n"
-"#Next level group is white.\n"
-"#There is orange level group after that.\n"
+"-System of level groups\r\n"
+"#You are in the red level group now.\r\n"
+"#Next level group is white.\r\n"
+"#There is orange level group after that.\r\n"
 "#If you want, you can after first level in orange and next level groups go "
-"to next level group.\n"
+"to next level group.\r\n"
 "#Next level groups are yellow, green, blue and purple."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:128
 msgid ""
-"-Secret areas\n"
-"#You can unlock an archivement if you find all secret areas.\n"
+"-Secret areas\r\n"
+"#You can unlock an archivement if you find all secret areas.\r\n"
 "#One secret area is around here."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:135
 msgid ""
-"-Other bonuses\n"
-"#Secret areas is not an only way for get bonuses.\n"
-"#There are bonuses out of secret areas.\n"
+"-Other bonuses\r\n"
+"#Secret areas is not an only way for get bonuses.\r\n"
+"#There are bonuses out of secret areas.\r\n"
 "#Wait for the platform for continue."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:143
 msgid ""
-"-Badguys\n"
-"#There are also a few badguys.\n"
+"-Badguys\r\n"
+"#There are also a few badguys.\r\n"
 "#You must avoid it."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:150
 msgid ""
-"-Platforms\n"
-"#There are some platforms in this worldmap.\n"
+"-Platforms\r\n"
+"#There are some platforms in this worldmap.\r\n"
 "#Please, wait for a platform for a ride."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:157
 msgid ""
-"-Boss levels\n"
-"#There are one boss level in each level group.\n"
-"#The boss level is the last level in each level group.\n"
-"#You must survive a minute in all bosses.\n"
+"-Boss levels\r\n"
+"#There are one boss level in each level group.\r\n"
+"#The boss level is the last level in each level group.\r\n"
+"#You must survive a minute in all bosses, when the goal is not obvious.\r\n"
 "#Wait for next platform for get to the other side."
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red1.stl:166
 msgid ""
-"-Level exit\n"
-"#There is the last way for get an archivement.\n"
-"#You get an archivement when you done all levels.\n"
-"#There are fourty two levels in this worldmap."
+"-Level exit\r\n"
+"#There is the last way for get an achievement.\r\n"
+"#You get an archivement when you done all levels.\r\n"
+"#There are fourty two levels in this worldmap.\r\n"
+"#Find a way out of this cave, good luck!"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red2.stl:3
@@ -893,7 +894,7 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/red4.stl:35
 msgid ""
-"-Where are bonuses??\n"
+"-Where are bonuses??\r\n"
 "#There are no bonuses, but you must find all secret areas for win this "
 "worldmap."
 msgstr ""
@@ -955,7 +956,7 @@ msgid "Deadly spikes"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/yellow4.stl:3
-msgid "Elevitor"
+msgid "Lift"
 msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/yellow5.stl:3
@@ -968,7 +969,7 @@ msgid ""
 "#You must get from side 1 to side 24.\r\n"
 "#You must answer the question in each sides.\r\n"
 "#If you answer correctly, you can chose your way to continue.\r\n"
-"#Else you must continue in predetermined way.\r\n"
+"#Else your way is chosen randomly and you can never undo it in that side.\r\n"
 "#Begin winth pressing this button."
 msgstr ""
 
@@ -978,4 +979,130 @@ msgstr ""
 
 #: src/hume-worldmaps/levels/hume_rainbow_cave/yellow7.stl:3
 msgid "Falling into a great hole"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:2
+msgid ""
+"Purple spotlights up!\n"
+"+10 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:4
+msgid ""
+"Purple bonus!\n"
+"+30 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:6
+msgid ""
+"Turquoise spotlights up!\n"
+"+10 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:8
+msgid ""
+"Turquoise bonus!\n"
+"+30 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:10
+msgid ""
+"Yellow spotlights up!\n"
+"+10 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:12
+msgid ""
+"Yellow bonus!\n"
+"+30 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:14
+msgid ""
+"Gamespeed up!\n"
+"+20 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:16
+msgid ""
+"Insert skullyhop!\n"
+"+15 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:18
+msgid ""
+"Insert bouncing snowball!\n"
+"+15 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:20
+msgid ""
+"Insert poison ivi!\n"
+"+15 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:22
+msgid ""
+"Insert snowball!\n"
+"+15 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:24
+msgid ""
+"Insert mr iceblock!\n"
+"+15 coins"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_bonus1.txt:26
+msgid ""
+"No bonus\n"
+" *uf*"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:2
+msgid "567418 - Bonus levels are unlocked!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:3
+msgid "489641 - 1 coin bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:4
+msgid "028976 - 10 coins bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:5
+msgid "360126 - 50 coins bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:6
+msgid "289221 - 100 coins bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:7
+msgid "265813 - 500 coins bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:8
+msgid "310412 - Large Tux bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:9
+msgid "598126 - Fire Tux bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_code.txt:10
+msgid "860312 - Ice Tux bonus!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_defualt.txt:2
+msgid "Archivement ulocked! #"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_octachoron.txt:2
+msgid "WRONG!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_octachoron.txt:3
+msgid "GOOD!"
 msgstr ""
