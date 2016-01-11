@@ -8,8 +8,8 @@ msgstr ""
 
 #: src/narre-land/levels/narre/eight.stl:25
 msgid ""
-" <-----\r\n"
-"       |\r\n"
+" <-----\n"
+"       |\n"
 "       |"
 msgstr ""
 
@@ -117,7 +117,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-11 21:24+0100\n"
+"POT-Creation-Date: 2016-01-11 22:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,17 +132,17 @@ msgstr ""
 
 #: src/narre-land/levels/narre/eleven.stl:19
 msgid ""
-"*Teleporters\r\n"
-"#If you go into these booths and jump,\r\n"
-"#they teleport you to another booth and \r\n"
+"*Teleporters\n"
+"#If you go into these booths and jump,\n"
+"#they teleport you to another booth and \n"
 "#back, you can try it here"
 msgstr ""
 
 #: src/narre-land/levels/narre/eleven.stl:27
 msgid ""
-"*Hurry up!\r\n"
-"-These bombs \r\n"
-"!images/creatures/mr_bomb/exploding-left-0.png \r\n"
+"*Hurry up!\n"
+"-These bombs \n"
+"!images/creatures/mr_bomb/exploding-left-0.png \n"
 "-explode to two minutes, or if you touch them."
 msgstr ""
 
@@ -156,9 +156,9 @@ msgstr ""
 
 #: src/narre-land/levels/narre/extro.txt:6
 msgid ""
-"-Well done! You completed NarreLand!\r\n"
-"\r\n"
-"#You killed Nolok !\r\n"
+"-Well done! You completed NarreLand!\n"
+"\n"
+"#You killed Nolok !\n"
 "#Nolok can't move Penny from this moment, because he is killed. Just only "
 "find Penny."
 msgstr ""
@@ -306,22 +306,22 @@ msgstr ""
 
 #: src/narre-land/levels/narre/thirty.stl:342
 msgid ""
-"-Fireflower Automat\r\n"
-"FFireflower for 10 coins\r\n"
+"-Fireflower Automat\n"
+"FFireflower for 10 coins\n"
 "PPress the button to buy item..."
 msgstr ""
 
 #: src/narre-land/levels/narre/thirty.stl:559
 msgid ""
-"-Iceflower Automat\r\n"
-"IIceflower for 5 coins\r\n"
+"-Iceflower Automat\n"
+"IIceflower for 5 coins\n"
 "PPress the button to buy item..."
 msgstr ""
 
 #: src/narre-land/levels/narre/thirty.stl:566
 msgid ""
-"-Star Automat\r\n"
-"SStar for 25 coins\r\n"
+"-Star Automat\n"
+"SStar for 25 coins\n"
 "PPress button to buy item..."
 msgstr ""
 
@@ -331,7 +331,7 @@ msgstr ""
 
 #: src/narre-land/levels/narre/thirtyone.stl:40
 msgid ""
-"-Castle Door\r\n"
+"-Castle Door\n"
 "II must use the key from CrystalCave..."
 msgstr ""
 
@@ -438,7 +438,7 @@ msgstr ""
 
 #: src/narre-land/levels/narre/two.stl:1267
 msgid ""
-"LGo play Last Egg Standing Supertux style!\r\n"
+"LGo play Last Egg Standing Supertux style!\n"
 " You need smalltux"
 msgstr ""
 
