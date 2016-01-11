@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-05 17:04+0100\n"
+"POT-Creation-Date: 2016-01-11 23:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,10 +23,6 @@ msgstr ""
 
 #: data/levels/test/bicycle_platform.stl:3
 msgid "Bicycle Platform Test"
-msgstr ""
-
-#: data/levels/test/bomb test..stl:4
-msgid "Bomb test"
 msgstr ""
 
 #: data/levels/test/bonusblock.stl:3
@@ -51,55 +47,55 @@ msgstr ""
 
 #: data/levels/test/captainsnowball.stl:32
 msgid ""
-"-Bonus Blocks\r\n"
-"!images/objects/bonus_block/full-0.png\r\n"
+"-Bonus Blocks\n"
+"!images/objects/bonus_block/full-0.png\n"
 "#Bonus blocks can contain coins, power-ups or special items to help you in "
-"your quest.\r\n"
-"#\r\n"
+"your quest.\n"
+"#\n"
 "#Hit them from below to get at their contents."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:41
 msgid ""
-"-Eggs\r\n"
-"!images/powerups/egg/egg.png\r\n"
+"-Eggs\n"
+"!images/powerups/egg/egg.png\n"
 "#The egg makes Tux grow larger. Tux can then smash wooden blocks with his "
 "head."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:48
 msgid ""
-"-Checkpoints\r\n"
-"!images/objects/resetpoints/bell-m.png\r\n"
+"-Checkpoints\n"
+"!images/objects/resetpoints/bell-m.png\n"
 "#Activate the checkpoint. As long as you have at least 25 coins left, you "
 "can retry the level from here."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:55
 msgid ""
-"-Running\r\n"
-"!images/tiles/signs/run.png\r\n"
+"-Running\n"
+"!images/tiles/signs/run.png\n"
 "#The path in front of you is blocked. Gain some speed before jumping to pass "
 "over the blocks."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:62
 msgid ""
-"-Fire Flower\r\n"
-"!images/powerups/fireflower/fire_flower-0.png\r\n"
+"-Fire Flower\n"
+"!images/powerups/fireflower/fire_flower-0.png\n"
 "#The fire flower gives Tux the ability to shoot fireballs."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:69
 msgid ""
-"-Tux Doll\r\n"
-"!images/powerups/1up/1up.png\r\n"
+"-Tux Doll\n"
+"!images/powerups/1up/1up.png\n"
 "#The Tux doll gives Tux 100 coins."
 msgstr ""
 
 #: data/levels/test/captainsnowball.stl:76
 msgid ""
-"-Secret Areas\r\n"
+"-Secret Areas\n"
 "#Many levels contain secret areas behind what seems to be plain walls. Look "
 "for clues to find them."
 msgstr ""
@@ -278,10 +274,6 @@ msgstr ""
 
 #: data/levels/test/stacking.stl:60
 msgid "images/powerups/egg/egg.sprite"
-msgstr ""
-
-#: data/levels/test/test.stl:4
-msgid "Something really fun"
 msgstr ""
 
 #: data/levels/test/tileplatforms.stl:3

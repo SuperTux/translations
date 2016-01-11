@@ -4,7 +4,7 @@ msgstr ""
 
 #: data/levels/incubator/Angry Stone vs. YOU.stl:307
 msgid ""
-"#You activate switches with this button:\r\n"
+"#You activate switches with this button:\n"
 "!images/tiles/signs/up.png"
 msgstr ""
 
@@ -22,7 +22,7 @@ msgstr ""
 
 #: data/levels/incubator/Missingno.stl:535
 msgid ""
-"#Dont move while flying!\r\n"
+"#Dont move while flying!\n"
 "#Pay attention at landing!"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgstr ""
 
 #: data/levels/incubator/into_dark.stl:224
 msgid ""
-"-Hint:\r\n"
+"-Hint:\n"
 "#Use the fireflower to melt a path through the ice."
 msgstr ""
 
@@ -114,7 +114,7 @@ msgstr ""
 
 #: data/levels/incubator/let_us_snow.stl:223
 msgid ""
-"-Warning!\r\n"
+"-Warning!\n"
 "#Beware the falling enemies!"
 msgstr ""
 
@@ -151,7 +151,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-05 17:28+0100\n"
+"POT-Creation-Date: 2016-01-11 23:08+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -166,18 +166,18 @@ msgstr ""
 
 #: data/levels/incubator/long.stl:1579
 msgid ""
-"#Until this moment you have luck.\r\n"
-"#The way here was hard.\r\n"
-"#You still have a long way to go.\r\n"
-"#You must know it well.\r\n"
-"#Even now you must not fail it.\r\n"
-"#Now go down to the shaft.\r\n"
+"#Until this moment you have luck.\n"
+"#The way here was hard.\n"
+"#You still have a long way to go.\n"
+"#You must know it well.\n"
+"#Even now you must not fail it.\n"
+"#Now go down to the shaft.\n"
 "#I hope you understood."
 msgstr ""
 
 #: data/levels/incubator/long.stl:3997
 msgid ""
-"-Congratulations!\r\n"
+"-Congratulations!\n"
 "#You are in half the level! "
 msgstr ""
 
