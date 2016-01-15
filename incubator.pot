@@ -1,3 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-15 09:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #: data/levels/incubator/Angry Stone vs. YOU.stl:3
 msgid "Angry Stone vs. YOU"
 msgstr ""
@@ -112,53 +131,11 @@ msgstr ""
 msgid "Let us snow!"
 msgstr ""
 
-#: data/levels/incubator/let_us_snow.stl:223
+#: data/levels/incubator/let_us_snow.stl:205
 msgid ""
 "-Warning!\n"
 "#Beware the falling enemies!"
 msgstr ""
-
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#: data/levels/incubator/let_us_snow.stl:229
-#: data/levels/incubator/let_us_snow.stl:234
-#: data/levels/incubator/let_us_snow.stl:239
-#: data/levels/incubator/let_us_snow.stl:244
-#: data/levels/incubator/let_us_snow.stl:249
-#: data/levels/incubator/let_us_snow.stl:254
-#: data/levels/incubator/let_us_snow.stl:259
-#: data/levels/incubator/let_us_snow.stl:264
-#: data/levels/incubator/let_us_snow.stl:269
-#: data/levels/incubator/let_us_snow.stl:274
-#: data/levels/incubator/let_us_snow.stl:279
-#: data/levels/incubator/let_us_snow.stl:284
-#: data/levels/incubator/let_us_snow.stl:289
-#: data/levels/incubator/let_us_snow.stl:294
-#: data/levels/incubator/let_us_snow.stl:299
-#: data/levels/incubator/let_us_snow.stl:304
-#: data/levels/incubator/let_us_snow.stl:309
-#: data/levels/incubator/let_us_snow.stl:314
-#: data/levels/incubator/let_us_snow.stl:319
-#: data/levels/incubator/let_us_snow.stl:324
-#: data/levels/incubator/let_us_snow.stl:329
-#: data/levels/incubator/let_us_snow.stl:334
-#: data/levels/incubator/let_us_snow.stl:339
-#, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-11 23:08+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #: data/levels/incubator/long.stl:3
 msgid "A long adventure"
