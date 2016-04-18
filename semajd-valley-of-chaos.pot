@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-18 22:28+0200\n"
+"POT-Creation-Date: 2016-04-18 22:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -195,8 +195,8 @@ msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:20
 msgid ""
-"#As the yeti was killed, everyone in the valley was released from there "
-"spell cast on them by the yeti"
+"#As the yeti was killed, everyone in the valley was released from the spell "
+"cast on them by the yeti"
 msgstr ""
 
 #: src/semajd-valley-of-chaos/levels/The_Valley_Of_Chaos/level24.stl:25
