@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 23:10+0200\n"
+"POT-Creation-Date: 2016-04-18 22:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -594,19 +594,19 @@ msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:141
 msgid ""
-"*Teir 1 Reward\n"
+"*Tier 1 Reward\n"
 "#Purchase an egg for 50 coins"
 msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:146
 msgid ""
-"*Teir 2 Reward\n"
+"*Tier 2 Reward\n"
 "#Purchase a 2x iceflower for 200 coins"
 msgstr ""
 
 #: src/lmh-matties-world/levels/mattie_world/mattie_iceberg/Trophy.stl:151
 msgid ""
-"*Teir 3 Reward\n"
+"*Tier 3 Reward\n"
 "#Purchase a 3x fireflower for 600 coins"
 msgstr ""
 
