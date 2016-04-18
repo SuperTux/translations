@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-18 22:16+0200\n"
+"POT-Creation-Date: 2016-04-18 22:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,7 @@ msgid "Freezing Dusk"
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau6.stl:3
-msgid "Distant Ices"
+msgid "Distant Ice"
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau7.stl:3
@@ -85,20 +85,20 @@ msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau9.stl:32
 msgid ""
-"#The blocks placed on the left can be moved by pressing on the Action key. "
-"Pile the blocks in order to go up on them, and jump over the wall."
+"#The blocks placed on the left can be moved by pressing the Action key. Pile "
+"the blocks in order to go up on them, and jump over the wall."
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau9.stl:37
 msgid ""
-"#The trampoline placed on the right can be moved by pressing on the Action "
-"key. Put the trampoline in front of the wall to jump over the wall."
+"#The trampoline placed on the right can be moved by pressing the Action key. "
+"Put the trampoline in front of the wall to jump over the wall."
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau9.stl:355
 msgid ""
 "#The lantern placed to the left can be moved by pressing the Action key. The "
-"light of the lantern allows you to walk on the magic blocs."
+"light of the lantern allows you to walk on the magic blocks."
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/niveau9.stl:360
@@ -110,7 +110,7 @@ msgstr ""
 #: src/michel-the-frozen-continent/levels/monde/niveau9.stl:365
 msgid ""
 "#The blocks of wood that obstruct the way to the right can be broken by "
-"throwing an ice block on it."
+"throwing an ice block on them."
 msgstr ""
 
 #: src/michel-the-frozen-continent/levels/monde/worldmap.stwm:3
