@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-18 22:38+0200\n"
+"POT-Creation-Date: 2016-05-01 01:08+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1096,7 +1096,23 @@ msgid "860312 - Ice Tux bonus!"
 msgstr ""
 
 #: src/hume-worldmaps/scripts_defualt.txt:2
-msgid "Archivement ulocked! #"
+msgid "You found all secret areas!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_defualt.txt:3
+msgid "You completed all "
+msgstr ""
+
+#: src/hume-worldmaps/scripts_defualt.txt:4
+msgid "You completed all levels!"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_defualt.txt:5
+msgid "sounds/invincible_start.ogg"
+msgstr ""
+
+#: src/hume-worldmaps/scripts_defualt.txt:6
+msgid "You reached all bonus crystals"
 msgstr ""
 
 #: src/hume-worldmaps/scripts_octachoron.txt:2
