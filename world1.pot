@@ -192,7 +192,7 @@ msgid ""
 "!images/objects/switch/switch-0.png\n"
 "!images/objects/switch/right-0.png\n"
 "#Switches can be used to do all manner of things. Press the UP key to use "
-"switchs.  This one activates the lift to your right."
+"switches.  This one activates the lift to your right."
 msgstr ""
 
 #: data/levels/world1/Fork_in_the_Road.stl:362
