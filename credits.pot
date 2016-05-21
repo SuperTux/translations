@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-08 23:24+0200\n"
+"POT-Creation-Date: 2016-05-22 00:15+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,356 +17,450 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: data//credits.txt:7
+#: data//credits.stxt:13
+msgid "Original Developer"
+msgstr ""
+
+#: data//credits.stxt:19 data//credits.stxt:25
+msgid "Graphics, Programming, Level Design"
+msgstr ""
+
+#: data//credits.stxt:31
+msgid "Music, Level Design"
+msgstr ""
+
+#: data//credits.stxt:37 data//credits.stxt:137 data//credits.stxt:142
+#: data//credits.stxt:191 data//credits.stxt:251
+msgid "Graphics"
+msgstr ""
+
+#: data//credits.stxt:43
+msgid "Programming, Graphics, Level Design"
+msgstr ""
+
+#: data//credits.stxt:49 data//credits.stxt:87 data//credits.stxt:102
+msgid "Programming, Level Design"
+msgstr ""
+
+#: data//credits.stxt:55
+msgid "Graphics, Story"
+msgstr ""
+
+#: data//credits.stxt:61
+msgid "Programming, Documentation"
+msgstr ""
+
+#: data//credits.stxt:67 data//credits.stxt:77 data//credits.stxt:82
+#: data//credits.stxt:107 data//credits.stxt:247 data//credits.stxt:259
+msgid "Programming"
+msgstr ""
+
+#: data//credits.stxt:72
+msgid "Programming, project lead ad interim"
+msgstr ""
+
+#: data//credits.stxt:92
+msgid "Coordination"
+msgstr ""
+
+#: data//credits.stxt:97
+msgid "Programming, \"Flexlay\" Level editor"
+msgstr ""
+
+#: data//credits.stxt:112
+msgid "Windows build fixes"
+msgstr ""
+
+#: data//credits.stxt:117
+msgid "Level Design, Graphics"
+msgstr ""
+
+#: data//credits.stxt:122
+msgid "Packaging, Nightly builds"
+msgstr ""
+
+#: data//credits.stxt:127
+msgid "Translation Guru (and many details anyone else could have done)"
+msgstr ""
+
+#: data//credits.stxt:132
+msgid "Level Design"
+msgstr ""
+
+#: data//credits.stxt:147
+msgid "Additional contributors"
+msgstr ""
+
+#: data//credits.stxt:151
+msgid "Bug fixes"
+msgstr ""
+
+#: data//credits.stxt:156
+msgid "Scripting functions, Level fixes"
+msgstr ""
+
+#: data//credits.stxt:161
+msgid "Code quality fixes"
+msgstr ""
+
+#: data//credits.stxt:166 data//credits.stxt:171 data//credits.stxt:176
+#: data//credits.stxt:211
+msgid "Various contributions"
+msgstr ""
+
+#: data//credits.stxt:181
+msgid "Build issue fix"
+msgstr ""
+
+#: data//credits.stxt:186
+msgid "Code contributions"
+msgstr ""
+
+#: data//credits.stxt:196
+msgid "Code contribution, AppData file"
+msgstr ""
+
+#: data//credits.stxt:201
+msgid "Bug fix"
+msgstr ""
+
+#: data//credits.stxt:206
+msgid "Menu reorganization"
+msgstr ""
+
+#: data//credits.stxt:216
+msgid "Fixing tile bugs"
+msgstr ""
+
+#: data//credits.stxt:221
+msgid "Build error fix"
+msgstr ""
+
+#: data//credits.stxt:226
+msgid "Scripting function fix"
+msgstr ""
+
+#: data//credits.stxt:231
+msgid "Support for \"glbinding\" as optional OpenGL binding"
+msgstr ""
+
+#: data//credits.stxt:236
+msgid "New menu code"
+msgstr ""
+
+#: data//credits.stxt:242
+msgid "Milestone 1 contributions by..."
+msgstr ""
+
+#: data//credits.stxt:255 data//credits.stxt:263
+msgid "Contrib Programming"
+msgstr ""
+
+#: data//credits.stxt:267
+msgid "Programming, Previous Maintainer"
+msgstr ""
+
+#: data//credits.stxt:272
+msgid "Additional Music"
+msgstr ""
+
+#: data//credits.stxt:277
+msgid "\"Mortimers Chipdisko\" by"
+msgstr ""
+
+#: data//credits.stxt:286
+msgid "\"Salsa Con Carne\" by"
+msgstr ""
+
+#: data//credits.stxt:294 data//credits.stxt:346
+msgid "remixed by"
+msgstr ""
+
+#: data//credits.stxt:303
+msgid "\"voc songs\" by"
+msgstr ""
+
+#: data//credits.stxt:312
+msgid "\"clavelian_march\" by"
+msgstr ""
+
+#: data//credits.stxt:321
+msgid "Excerpts from the Giana Sisters"
+msgstr ""
+
+#: data//credits.stxt:325
+msgid "Soundtrack used with kind permission"
+msgstr ""
+
+#: data//credits.stxt:329
+msgid "from"
+msgstr ""
+
+#: data//credits.stxt:338
+msgid "\"Airship song\" (orchestral remix) by"
+msgstr ""
+
+#: data//credits.stxt:355
+msgid "\"Battle Theme\" by"
+msgstr ""
+
+#: data//credits.stxt:364
+msgid "\"SuperTux christmas theme\""
+msgstr ""
+
+#: data//credits.stxt:368
+msgid "original by"
+msgstr ""
+
+#: data//credits.stxt:377
+msgid "arranged by"
+msgstr ""
+
+#: data//credits.stxt:386
+msgid "\"halloween_1.ogg\" by"
+msgstr ""
+
+#: data//credits.stxt:395
+msgid "\"Forest Prophecy reEducated\" (forest_theme.ogg) by"
+msgstr ""
+
+#: data//credits.stxt:404
+msgid "Sound"
+msgstr ""
+
+#: data//credits.stxt:475
+msgid "Voice Acting"
+msgstr ""
+
+#: data//credits.stxt:506
+msgid "Localization"
+msgstr ""
+
+#: data//credits.stxt:511 data//credits.stxt:646
+msgid "Danish"
+msgstr ""
+
+#: data//credits.stxt:516
+msgid "Vietnamese"
+msgstr ""
+
+#: data//credits.stxt:521 data//credits.stxt:602 data//credits.stxt:610
+#: data//credits.stxt:702 data//credits.stxt:718 data//credits.stxt:754
+#: data//credits.stxt:762 data//credits.stxt:770 data//credits.stxt:850
+msgid "French"
+msgstr ""
+
+#: data//credits.stxt:526 data//credits.stxt:561 data//credits.stxt:626
+#: data//credits.stxt:698 data//credits.stxt:798 data//credits.stxt:838
+msgid "German"
+msgstr ""
+
+#: data//credits.stxt:531 data//credits.stxt:606 data//credits.stxt:842
+msgid "Russian"
+msgstr ""
+
+#: data//credits.stxt:536
+msgid "Albanese"
+msgstr ""
+
+#: data//credits.stxt:541 data//credits.stxt:566 data//credits.stxt:578
+msgid "Castilian Spanish"
+msgstr ""
+
+#: data//credits.stxt:546 data//credits.stxt:574 data//credits.stxt:622
+#: data//credits.stxt:774 data//credits.stxt:806 data//credits.stxt:854
+msgid "Hungarian"
+msgstr ""
+
+#: data//credits.stxt:551 data//credits.stxt:630 data//credits.stxt:666
+msgid "Spanish"
+msgstr ""
+
+#: data//credits.stxt:556 data//credits.stxt:582 data//credits.stxt:834
+msgid "Catalan"
+msgstr ""
+
+#: data//credits.stxt:570
+msgid "Slovenian"
+msgstr ""
+
+#: data//credits.stxt:586
+msgid "Mandarin"
+msgstr ""
+
+#: data//credits.stxt:590 data//credits.stxt:662 data//credits.stxt:690
+msgid "European Portuguese"
+msgstr ""
+
+#: data//credits.stxt:594
+msgid "Romanian"
+msgstr ""
+
+#: data//credits.stxt:598 data//credits.stxt:818
+msgid "Dutch"
+msgstr ""
+
+#: data//credits.stxt:614 data//credits.stxt:706 data//credits.stxt:846
+msgid "Turkish"
+msgstr ""
+
+#: data//credits.stxt:618
+msgid "European/Brazilian Portuguese"
+msgstr ""
+
+#: data//credits.stxt:634 data//credits.stxt:650 data//credits.stxt:654
+#: data//credits.stxt:722 data//credits.stxt:826
+msgid "Czech"
+msgstr ""
+
+#: data//credits.stxt:638 data//credits.stxt:758
+msgid "Nepali"
+msgstr ""
+
+#: data//credits.stxt:642 data//credits.stxt:726 data//credits.stxt:742
+#: data//credits.stxt:766
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: data//credits.stxt:658 data//credits.stxt:670
+msgid "Italian"
+msgstr ""
+
+#: data//credits.stxt:674
+msgid "Estonian"
+msgstr ""
+
+#: data//credits.stxt:678 data//credits.stxt:682 data//credits.stxt:714
+#: data//credits.stxt:810
+msgid "Polish"
+msgstr ""
+
+#: data//credits.stxt:686
+msgid "French/Esperanto"
+msgstr ""
+
+#: data//credits.stxt:694
+msgid "Ukranian"
+msgstr ""
+
+#: data//credits.stxt:710
+msgid "Breton"
+msgstr ""
+
+#: data//credits.stxt:730 data//credits.stxt:782
+msgid "Greek"
+msgstr ""
+
+#: data//credits.stxt:734 data//credits.stxt:750
+msgid "Norwegian"
+msgstr ""
+
+#: data//credits.stxt:738
+msgid "Swedish"
+msgstr ""
+
+#: data//credits.stxt:746 data//credits.stxt:794
+msgid "Finnish"
+msgstr ""
+
+#: data//credits.stxt:778
+msgid "Serbian"
+msgstr ""
+
+#: data//credits.stxt:786
+msgid "Japanese"
+msgstr ""
+
+#: data//credits.stxt:790
+msgid "Simplified Chinese"
+msgstr ""
+
+#: data//credits.stxt:802
+msgid "Lithuanian"
+msgstr ""
+
+#: data//credits.stxt:814
+msgid "Ukrainian"
+msgstr ""
+
+#: data//credits.stxt:822
+msgid "Belarusian"
+msgstr ""
+
+#: data//credits.stxt:830
+msgid "Bulgarian"
+msgstr ""
+
+#: data//credits.stxt:860
+msgid "Thanks to"
+msgstr ""
+
+#: data//credits.stxt:865
+msgid "Creator of Tux, the Linux penguin"
+msgstr ""
+
+#: data//credits.stxt:869
+msgid "SDL, OpenAL and OpenGL"
+msgstr ""
+
+#: data//credits.stxt:870
 msgid ""
-"!images/engine/menu/logo.png\n"
-"\n"
-"\n"
-"\n"
-"\tBill Kendrick\n"
-"!images/credits/bill.jpg\n"
-" Original Developer\n"
-"\n"
-"\tIngo \"grumbel\" Ruhnke\n"
-"!images/credits/ingo.jpg\n"
-" Graphics, Programming, Level Design\n"
-"\n"
-"\tMatthias \"MatzeB\" Braun\n"
-"!images/credits/matze.jpg\n"
-" Programming\n"
-"\n"
-"\tMarek \"Wansti\" Moeckel\n"
-"!images/credits/wansti.jpg\n"
-" Music, Level Design\n"
-"\n"
-"\tStephen Groundwater\n"
-"!images/credits/gwater.jpg\n"
-" Graphics\n"
-"\n"
-"\tChristoph Sommer\n"
-"!images/credits/christoph.jpg\n"
-" Programming, Graphics, Level Design\n"
-"\n"
-"\tWolfgang Becker\n"
-"!images/credits/wolfgang.jpg\n"
-" Programming, Level Design\n"
-"\n"
-"\tChristopher A. \"paroneayea\" Webber\n"
-"!images/credits/paroneayea.jpg\n"
-" Graphics, Story\n"
-"\n"
-"\tOndřej \"Ravu al Hemio\" Hošek\n"
-"!images/credits/ondra.jpg\n"
-" Programming, Documentation\n"
-"\n"
-"\tRyan \"sik0fewl\" Flegel\n"
-" Programming\n"
-"\n"
-"\tTobias \"Tobbi\" Markus\n"
-" Programming, project lead ad interim\n"
-"\n"
-"\tMathnerd314\n"
-" Programming\n"
-"\n"
-"\tTim \"tuxdev\" Goya\n"
-" Programming\n"
-"\n"
-"\tLMH\n"
-" Programming, Level Design\n"
-"\n"
-"\tM. Teufel\n"
-" Coordination\n"
-"\n"
-"\tKarkus476\n"
-" Programming, \"Flexlay\" Level editor\n"
-"\n"
-"\tHume\n"
-" Programming, Level Design\n"
-"\n"
-"\tMiloš Klouček\n"
-" Programming\n"
-"\n"
-"\tSeebi \"Flakebi\"\n"
-" Windows build fixes\n"
-"\n"
-"\tCT. da'Bomb\n"
-" Level Design, Graphics\n"
-"\n"
-"\tJacob \"maths22\" Burroughs\n"
-" Packaging, Nightly builds\n"
-"\n"
-"\tBenjamin \"GiBy\" Leduc\n"
-" Translation Guru (and many details anyone else could have done)\n"
-"\n"
-"\tArvid Norlander\n"
-" Level Design\n"
-"\n"
-"\t165your4\n"
-" Graphics\n"
-"\n"
-"\tSydney Dykstra\n"
-" Graphics\n"
-"\n"
-"- Additional contributions\n"
-"\n"
-"\tArian Behvandnejad\n"
-" Bug fixes\n"
-"\tbrmbrmcar\n"
-" Scripting functions, Level fixes\n"
-"\tDaniel Butum\n"
-" Code quality fixes\n"
-"\tVincent Cheng\n"
-" Various contributions\n"
-"\tchrism\n"
-" Various contributions\n"
-"\tDaniela Ferraz\n"
-" Localization, Bug fixes\n"
-"\tFabian Greffrath\n"
-" Build issue fix\n"
-"\tJann Horn\n"
-" Code contributions\n"
-"\tDevyn Collier Johnson\n"
-" Graphics\n"
-"\tDavid King\n"
-" Code contribution, AppData file\n"
-"\tJonas Kuemmerlin\n"
-" Bug fix\n"
-"\tmahboi\n"
-" Menu reorganization\n"
-"\tMatt McCutchen\n"
-" Various contributions\n"
-"\tnicholas\n"
-" Fixing tile bugs\n"
-"\tEric Newberry\n"
-" Build error fix\n"
-"\tJosé Rebelo\n"
-" Scripting function fix\n"
-"\tWilly Scheibel\n"
-" Support for \"glbinding\" as optional OpenGL binding\n"
-"\tMatthew Taylor\n"
-" New menu code\n"
-"\n"
-"- Milestone 1 contributions by...\n"
-"\n"
-"\tBastiaan \"basti_\" Zapf\n"
-" Programming\n"
-"\tBenjamin P. \"litespeed\" Jung\n"
-" Graphics\n"
-"\tDuong-Khang \"neoneurone\" Nguyen\n"
-" Contrib Programming\n"
-"\tRicardo \"blacksheep\" Cruz\n"
-" Programming\n"
-"\tRichard Smith\n"
-" Contrib Programming\n"
-"\tTobias \"tobgle\" Gläßer\n"
-" Programming, Previous Maintainer\n"
-"\n"
-"-Additional Music\n"
-"\n"
-" \"Mortimers Chipdisko\" by\n"
-"\tLukas Nystrand (as Mortimer Twang)\n"
-"\n"
-" \"Salsa Con Carne\" by\n"
-"\tAsbjoern Andersen (as Mystical)\n"
-" remixed by\n"
-"\tDJ Gentoo\n"
-"\n"
-" \"voc songs\" by\n"
-"\tsemajD\n"
-"\n"
-" \"clavelian_march\" by\n"
-"\ttreskalle\n"
-"\n"
-" Excerpts from the Giana Sisters\n"
-" Soundtrack used with kind permission\n"
-" from\n"
-"\tChris Huelsbeck\n"
-"\n"
-" \"Airship song\" (orchestral remix) by\n"
-"\tBart K.\n"
-" remixed by\n"
-"\tremaxim\n"
-"\n"
-" \"Battle Theme\" by\n"
-"\tremaxim\n"
-"\n"
-" “SuperTux christmas theme“\n"
-" original by\n"
-"\tMarek \"Wansti\" Moeckel\n"
-" arranged by\n"
-"\tChris Leutwyler\n"
-"\n"
-" \"halloween_1.ogg\" by\n"
-"\tForty-Two\n"
-"\n"
-" \"Forest Prophecy reEducated\" (forest_theme.ogg) by\n"
-"\tMarek \"Wansti\" Möckel and Tobias \"ToBeFree\" Frei\n"
-"\n"
-"-Sound\n"
-"\n"
-"\tWolfgang Becker\n"
-"\tblastwavefx.com\n"
-"\tMatthias Braun\n"
-"\tRicardo Cruz\n"
-"\tMarianne Gagnon\n"
-"\tStephen Groundwater\n"
-"\tNathan McCoy\n"
-"\tMarek Moeckel\n"
-"\tPaulo Morfeo\n"
-"\tNatalie\n"
-"\tQ.K.\n"
-"\tSome_Person\n"
-"\tChristoph Sommer\n"
-"\tsoundscalpel.com\n"
-"\tYaniel\n"
-"\tBastian Zapf\n"
-"\n"
-"\n"
-"-Voice Acting\n"
-"\n"
-"*Tux\n"
-"\tDaniel Alston\n"
-"!images/credits/daniel.jpg\n"
-"\n"
-"*Yeti\n"
-"\tMatthias Braun\n"
-"\n"
-"*Penny\n"
-"\tMathilda Edmunds\n"
-"\n"
-"\n"
-"-Localization\n"
-"\n"
-" \tAnders (Danish)\n"
-" \tPhan Anh (Vietnamese)\n"
-"        Sébastien Aperghis-Tramoni (French)\n"
-"        Ettore Atalan (German)\n"
-" \tConstantin Baranov (Russian)\n"
-" \tIndrit Bashkimi (Albanese)\n"
-" \tJavier Beaumont (Castilian Spanish)\n"
-"        Baráth Béla (Hungarian)\n"
-"        William Beltrán (Spanish)\n"
-" \tMartí Bosc (Catalan)\n"
-" \tMatthias Braun (German)\n"
-" \tSergio López Briñas (Castilian Spanish)\n"
-" \tMarko Burjek (Slovenian)\n"
-"        Tibor Buzási (Hungarian)\n"
-" \tFernando Carmona (Castilian Spanish)\n"
-"        Marc Celeiro (Catalan)\n"
-" \tWei-Lun Chao (Mandarin)\n"
-" \tRicardo Cruz (European Portuguese)\n"
-" \tRazvan Dajboc (Romanian)\n"
-" \tPieter De Decker (Dutch)\n"
-" \tBertrand Delaitre (French)\n"
-"        Dmitry \"starwars32\" (Russian)\n"
-"        Antoine Dumondel (French)\n"
-"        faradundamarti (Turkish)\n"
-" \tDaniela Ferraz (European/Brazilian Portuguese)\n"
-"        Galp Flark (Hungarian)\n"
-" \tFlorian Forster (German)\n"
-"        Franchulo (Spanish)\n"
-"        fri (Czech)\n"
-" \tPrabin Gautam (Nepali)\n"
-"        Victor Gonçalves (Brazilian Portuguese)\n"
-"        Joe Hansen (Danish)\n"
-"        Hume (Czech)\n"
-" \tOndřej Hošek (Czech)\n"
-" \tIknos (Italian)\n"
-" \tJose Jorge (European Portuguese)\n"
-"        juanda097 (Spanish)\n"
-" \tManuela Kessler (Italian)\n"
-" \tGünter \"kyber\" Kits (Estonian)\n"
-" \tDominik Klementowski (Polish)\n"
-" \tMarcin Kocur (Polish)\n"
-" \tBenjamin Leduc (French/Esperanto)\n"
-" \tSérgio Lopes (European Portuguese)\n"
-"        Max Lyashuk (Ukranian)\n"
-" \tTobias Markus (German)\n"
-"        Lucas Mascaro (French)\n"
-" \tmeczup (Turkish)\n"
-" \tGwenn Meynier (Breton)\n"
-"        mkkot (Polish)\n"
-"        mol1 (French)\n"
-"        Narre (Czech)\n"
-"        Jonatas L. Nogueira (Brazilian Portuguese)\n"
-"        Vangelis Nomikos (Greek)\n"
-"        Allan Nordhøy (Norwegian)\n"
-" \tArvid Norlander (Swedish)\n"
-" \tKrishnamurti Lelis Lima Vieira Nunes (Brazilian Portuguese)\n"
-" \tLauri \"xet7\" Ojansivu (Finnish)\n"
-" \tKarl Ove Hufthammer (Norwegian)\n"
-" \tLéo Poughon (French)\n"
-" \tBansaj Pradhan (Nepali)\n"
-"        Nathanael Ready (French)\n"
-" \tHerval Ribeiro (Brazilian Portuguese)\n"
-" \tFrederic Rodrigo (French)\n"
-" \tD. J. S. (Hungarian)\n"
-" \tSlobodan Simić (Serbian)\n"
-"        SomeRandomUser (Greek)\n"
-"        Sumita \"tako44\" Sanshiro (Japanese)\n"
-" \tLiu Sizhuang (Simplified Chinese)\n"
-" \tJan Solanti (Finnish)\n"
-" \tChristoph Sommer (German)\n"
-" \tAndrius Štikonas (Lithuanian)\n"
-"        symvizan (Hungarian)\n"
-"        Krzysiek Szeląg (Polish)\n"
-" \tEugen Uvin (Ukrainian)\n"
-" \tFrank van der Loo (Dutch)\n"
-" \tMihas \"meequz\" Varantsou (Belarusian)\n"
-"        Jakub Vaněk (Czech)\n"
-"        Lyubomir Vasilev (Bulgarian)\n"
-" \tAntoni Villalonga (Catalan)\n"
-"        Wuzzy (German)\n"
-" \tRoman M. Yagodin (Russian)\n"
-"        yakup (Turkish)\n"
-"        zecas \"zezinho\" (French)\n"
-" \tKővágó Zoltán (Hungarian)\n"
-"\n"
-"\n"
-"-Thanks to\n"
-"\n"
-"\tLarry Ewing\n"
-" Creator of Tux, the Linux penguin\n"
-"\n"
-"\tSDL, OpenAL and OpenGL\n"
-" For making such a great gaming experience\n"
-" possible on Linux\n"
-"\n"
-"\n"
-"-Contact\n"
-"\n"
-"\tVisit our webpage at\n"
-"*http://supertuxproject.org\n"
-"\n"
-"\tOr visit us directly at IRC:\n"
-"*#supertux at webchat.freenode.net\n"
-"\n"
-"\tOr at our Forum:\n"
-"*http://forum.freegamedev.net/viewforum.php?f=66\n"
-"\n"
-"\tComments, ideas and suggestions\n"
-"\tgo to our mailing list\n"
-"*supertux-devel@lists.lethargik.org\n"
-"\n"
-"\n"
-"\n"
-"-Want to help…\n"
-"\n"
-"\t…with localization?\n"
-"*https://www.transifex.com/arctic-games/supertux/\n"
-"\n"
-"\n"
-"\t…with something else?\n"
-"*https://github.com/supertux\n"
-"\n"
-"\n"
-"\n"
-"\tThank you for\n"
-"\tplaying\n"
-"\n"
-"-SuperTux\n"
-"\n"
-"\n"
-"\n"
-"\tPenny awaits you in Milestone 3!"
+"For making such a great gaming experience\n"
+"        possible on Linux"
+msgstr ""
+
+#: data//credits.stxt:877
+msgid "Contact"
+msgstr ""
+
+#: data//credits.stxt:882
+msgid "Visit our webpage at"
+msgstr ""
+
+#: data//credits.stxt:891
+msgid "Or visit us directly at IRC:"
+msgstr ""
+
+#: data//credits.stxt:895
+msgid "#supertux at webchat.freenode.net"
+msgstr ""
+
+#: data//credits.stxt:900
+msgid "Or at our Forum:"
+msgstr ""
+
+#: data//credits.stxt:909
+msgid "Comments, ideas and suggestions"
+msgstr ""
+
+#: data//credits.stxt:913
+msgid "go to our mailing list"
+msgstr ""
+
+#: data//credits.stxt:917
+msgid "supertux-devel@lists.lethargik.org"
+msgstr ""
+
+#: data//credits.stxt:924
+msgid "Want to help…"
+msgstr ""
+
+#: data//credits.stxt:929
+msgid "…with localization?"
+msgstr ""
+
+#: data//credits.stxt:939
+msgid "…with something else?"
+msgstr ""
+
+#: data//credits.stxt:950
+msgid "Thank you for"
+msgstr ""
+
+#: data//credits.stxt:954
+msgid "playing"
+msgstr ""
+
+#: data//credits.stxt:966
+msgid "Penny awaits you in Milestone 3!"
 msgstr ""
