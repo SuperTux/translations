@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-22 00:15+0200\n"
+"POT-Creation-Date: 2016-06-23 17:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -339,8 +339,8 @@ msgstr ""
 msgid "French/Esperanto"
 msgstr ""
 
-#: data//credits.stxt:694
-msgid "Ukranian"
+#: data//credits.stxt:694 data//credits.stxt:814
+msgid "Ukrainian"
 msgstr ""
 
 #: data//credits.stxt:710
@@ -377,10 +377,6 @@ msgstr ""
 
 #: data//credits.stxt:802
 msgid "Lithuanian"
-msgstr ""
-
-#: data//credits.stxt:814
-msgid "Ukrainian"
 msgstr ""
 
 #: data//credits.stxt:822
@@ -435,10 +431,6 @@ msgstr ""
 
 #: data//credits.stxt:913
 msgid "go to our mailing list"
-msgstr ""
-
-#: data//credits.stxt:917
-msgid "supertux-devel@lists.lethargik.org"
 msgstr ""
 
 #: data//credits.stxt:924

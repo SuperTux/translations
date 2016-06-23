@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-08 23:24+0200\n"
+"POT-Creation-Date: 2016-06-23 17:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,11 +38,15 @@ msgid "Duct Ape"
 msgstr ""
 
 #: data/levels/world2/El_Castillo.stl:3
-msgid "Short Visit to El Castillo"
+msgid "A Short Visit to El Castillo"
 msgstr ""
 
 #: data/levels/world2/Find_Big_Fish.stl:3
 msgid "Find the Bigger Fish!"
+msgstr ""
+
+#: data/levels/world2/Find_Big_Fish.stl:449
+msgid "-A big fish... for you."
 msgstr ""
 
 #: data/levels/world2/Going_Underground.stl:3
@@ -102,7 +106,7 @@ msgstr ""
 msgid "Tux the Builder"
 msgstr ""
 
-#: data/levels/world2/Tux_Builder.stl:38
+#: data/levels/world2/Tux_Builder.stl:46
 msgid ""
 "-Portable Rocks:\n"
 "\n"
