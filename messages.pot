@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-23 17:32+0200\n"
+"POT-Creation-Date: 2016-06-23 18:05+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,8 +17,36 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: src/badguy/angrystone.hpp:37
+msgid "Angry stone"
+msgstr ""
+
+#: src/badguy/badguy.hpp:55
+msgid "Badguy"
+msgstr ""
+
+#: src/badguy/badguy.hpp:61
+msgid "Death script"
+msgstr ""
+
+#: src/badguy/bouncing_snowball.hpp:35
+msgid "Bouncing Snowball"
+msgstr ""
+
+#: src/badguy/captainsnowball.hpp:36
+msgid "Captain snowball"
+msgstr ""
+
 #: src/badguy/crystallo.cpp:48 src/badguy/flame.cpp:59
 msgid "Radius"
+msgstr ""
+
+#: src/badguy/crystallo.hpp:35
+msgid "Crystallo"
+msgstr ""
+
+#: src/badguy/dart.hpp:49
+msgid "Dart"
 msgstr ""
 
 #: src/badguy/darttrap.cpp:115
@@ -31,6 +59,10 @@ msgstr ""
 
 #: src/badguy/darttrap.cpp:119
 msgid "Ammo"
+msgstr ""
+
+#: src/badguy/darttrap.hpp:36
+msgid "Dart trap"
 msgstr ""
 
 #: src/badguy/dispenser.cpp:374
@@ -65,8 +97,168 @@ msgstr ""
 msgid "invisible"
 msgstr ""
 
+#: src/badguy/dispenser.hpp:40
+msgid "Dispenser"
+msgstr ""
+
+#: src/badguy/fish.hpp:44
+msgid "Fish"
+msgstr ""
+
 #: src/badguy/flame.cpp:61
 msgid "Speed"
+msgstr ""
+
+#: src/badguy/flame.hpp:45
+msgid "Flame"
+msgstr ""
+
+#: src/badguy/flyingsnowball.hpp:36
+msgid "Flying snowball"
+msgstr ""
+
+#: src/badguy/ghostflame.hpp:34
+msgid "Ghost flame"
+msgstr ""
+
+#: src/badguy/ghosttree.hpp:48
+msgid "Ghost tree"
+msgstr ""
+
+#: src/badguy/goldbomb.hpp:51
+msgid "Golden bomb"
+msgstr ""
+
+#: src/badguy/haywire.hpp:45
+msgid "Haywire"
+msgstr ""
+
+#: src/badguy/iceflame.hpp:37
+msgid "Ice flame"
+msgstr ""
+
+#: src/badguy/igel.hpp:40
+msgid "Igel"
+msgstr ""
+
+#: src/badguy/jumpy.hpp:39
+msgid "Jumpy"
+msgstr ""
+
+#: src/badguy/kamikazesnowball.hpp:34
+msgid "Kamikaze snowball"
+msgstr ""
+
+#: src/badguy/kamikazesnowball.hpp:56
+msgid "Leaf Shot"
+msgstr ""
+
+#: src/badguy/kugelblitz.hpp:43
+msgid "Kugelblitz"
+msgstr ""
+
+#: src/badguy/livefire.hpp:40
+msgid "Live fire"
+msgstr ""
+
+#: src/badguy/livefire.hpp:63
+msgid "Sleeping live fire"
+msgstr ""
+
+#: src/badguy/livefire.hpp:74
+msgid "Dormant live fire"
+msgstr ""
+
+#: src/badguy/mole.hpp:43
+msgid "Mole"
+msgstr ""
+
+#: src/badguy/mole_rock.hpp:48
+msgid "Mole's rock"
+msgstr ""
+
+#: src/badguy/mrbomb.hpp:45
+msgid "Mr. Bomb"
+msgstr ""
+
+#: src/badguy/mriceblock.hpp:51
+msgid "Mr. Ice Block"
+msgstr ""
+
+#: src/badguy/mriceblock.hpp:82
+msgid "Smart Block"
+msgstr ""
+
+#: src/badguy/mrtree.hpp:32
+msgid "Mr. Tree"
+msgstr ""
+
+#: src/badguy/owl.hpp:44
+msgid "Owl"
+msgstr ""
+
+#: src/badguy/plant.hpp:36
+msgid "Plant"
+msgstr ""
+
+#: src/badguy/poisonivy.hpp:33
+msgid "Poisonous ivy"
+msgstr ""
+
+#: src/badguy/short_fuse.hpp:31
+msgid "Short fuse"
+msgstr ""
+
+#: src/badguy/skullyhop.hpp:43
+msgid "Skully hop"
+msgstr ""
+
+#: src/badguy/skydive.hpp:42
+msgid "Sky dive"
+msgstr ""
+
+#: src/badguy/smartball.hpp:39
+msgid "Smart Ball"
+msgstr ""
+
+#: src/badguy/snail.hpp:44
+msgid "Snail"
+msgstr ""
+
+#: src/badguy/snowball.hpp:31
+msgid "Snowball"
+msgstr ""
+
+#: src/badguy/snowman.hpp:31
+msgid "Snowman"
+msgstr ""
+
+#: src/badguy/spidermite.hpp:39
+msgid "Spider mite"
+msgstr ""
+
+#: src/badguy/spiky.hpp:33
+msgid "Spiky"
+msgstr ""
+
+#: src/badguy/sspiky.hpp:39
+msgid "Sleeping spiky"
+msgstr ""
+
+#: src/badguy/stalactite.hpp:42
+msgid "Stalactite"
+msgstr ""
+
+#: src/badguy/stumpy.hpp:38
+msgid "Stumpy"
+msgstr ""
+
+#: src/badguy/toad.hpp:43
+msgid "Toad"
+msgstr ""
+
+#: src/badguy/totem.hpp:41
+msgid "Totem"
 msgstr ""
 
 #: src/badguy/walking_candle.cpp:82 src/object/candle.cpp:87
@@ -75,7 +267,15 @@ msgstr ""
 msgid "Colour"
 msgstr ""
 
-#: src/badguy/willowisp.cpp:296
+#: src/badguy/walking_candle.hpp:45
+msgid "Mr. Candle"
+msgstr ""
+
+#: src/badguy/walkingleaf.hpp:36
+msgid "Walking leaf"
+msgstr ""
+
+#: src/badguy/willowisp.cpp:296 src/badguy/willowisp.hpp:63
 msgid "Will 'o' wisp"
 msgstr ""
 
@@ -121,6 +321,18 @@ msgstr ""
 
 #: src/badguy/yeti.cpp:357
 msgid "Lives"
+msgstr ""
+
+#: src/badguy/yeti.hpp:44
+msgid "Yeti"
+msgstr ""
+
+#: src/badguy/yeti_stalactite.hpp:38
+msgid "Yeti's stalactite"
+msgstr ""
+
+#: src/badguy/zeekling.hpp:40
+msgid "Zeekling"
 msgstr ""
 
 #: src/control/joystick_config.cpp:84
@@ -193,6 +405,11 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+#: src/editor/spawnpoint_marker.hpp:52 src/editor/worldmap_objects.cpp:243
+#: src/trigger/door.cpp:80
+msgid "Spawn point"
+msgstr ""
+
 #: src/editor/worldmap_objects.cpp:101 src/editor/worldmap_objects.cpp:103
 msgid "Level"
 msgstr ""
@@ -236,10 +453,6 @@ msgstr ""
 
 #: src/editor/worldmap_objects.cpp:202
 msgid "Target worldmap"
-msgstr ""
-
-#: src/editor/worldmap_objects.cpp:243 src/trigger/door.cpp:80
-msgid "Spawn point"
 msgstr ""
 
 #: src/editor/worldmap_objects.cpp:281
@@ -353,6 +566,10 @@ msgstr ""
 msgid "Volume"
 msgstr ""
 
+#: src/object/ambient_sound.hpp:85
+msgid "Ambient sound"
+msgstr ""
+
 #: src/object/background.cpp:164 src/object/gradient.cpp:132
 #: src/object/particlesystem.cpp:44
 #: src/object/particlesystem_interactive.cpp:148 src/object/tilemap.cpp:216
@@ -393,6 +610,14 @@ msgstr ""
 
 #: src/object/background.cpp:184
 msgid "Bottom image"
+msgstr ""
+
+#: src/object/background.hpp:60
+msgid "Background"
+msgstr ""
+
+#: src/object/bicycle_platform.hpp:38
+msgid "Bicycle platform"
 msgstr ""
 
 #: src/object/bonus_block.cpp:181
@@ -455,8 +680,16 @@ msgstr ""
 msgid "coin explosion"
 msgstr ""
 
+#: src/object/bonus_block.hpp:38
+msgid "Bonus block"
+msgstr ""
+
 #: src/object/brick.cpp:132
 msgid "Breakable"
+msgstr ""
+
+#: src/object/brick.hpp:35
+msgid "Brick"
 msgstr ""
 
 #: src/object/camera.cpp:140
@@ -475,6 +708,10 @@ msgstr ""
 msgid "manual"
 msgstr ""
 
+#: src/object/camera.hpp:89
+msgid "Camera"
+msgstr ""
+
 #: src/object/candle.cpp:85
 msgid "Burning"
 msgstr ""
@@ -483,8 +720,24 @@ msgstr ""
 msgid "Flicker"
 msgstr ""
 
+#: src/object/candle.hpp:52
+msgid "Candle"
+msgstr ""
+
+#: src/object/cloud_particle_system.hpp:43
+msgid "Cloud particles"
+msgstr ""
+
 #: src/object/coin.cpp:263 src/object/tilemap.cpp:219
 msgid "Following path"
+msgstr ""
+
+#: src/object/coin.hpp:43
+msgid "Coin"
+msgstr ""
+
+#: src/object/comet_particle_system.hpp:45
+msgid "Comet particles"
 msgstr ""
 
 #: src/object/decal.cpp:44 src/supertux/menu/joystick_menu.cpp:74
@@ -494,6 +747,18 @@ msgstr ""
 
 #: src/object/decal.cpp:45 src/object/scripted_object.cpp:64
 msgid "Solid"
+msgstr ""
+
+#: src/object/decal.hpp:40
+msgid "Decal"
+msgstr ""
+
+#: src/object/firefly.hpp:36
+msgid "Reset point"
+msgstr ""
+
+#: src/object/ghost_particle_system.hpp:43
+msgid "Ghost particles"
 msgstr ""
 
 #: src/object/gradient.cpp:125
@@ -533,6 +798,54 @@ msgstr ""
 msgid "horizontal sector"
 msgstr ""
 
+#: src/object/gradient.hpp:60
+msgid "Gradient"
+msgstr ""
+
+#: src/object/hurting_platform.hpp:35
+msgid "Hurting platform"
+msgstr ""
+
+#: src/object/icecrusher.hpp:42
+msgid "Ice crusher"
+msgstr ""
+
+#: src/object/infoblock.hpp:41
+msgid "Info block"
+msgstr ""
+
+#: src/object/invisible_block.hpp:32
+msgid "Invisible block"
+msgstr ""
+
+#: src/object/invisible_wall.hpp:36
+msgid "Invisible wall"
+msgstr ""
+
+#: src/object/ispy.hpp:39
+msgid "Ispy"
+msgstr ""
+
+#: src/object/lantern.hpp:56
+msgid "Lantern"
+msgstr ""
+
+#: src/object/level_time.hpp:74
+msgid "Level time"
+msgstr ""
+
+#: src/object/magicblock.hpp:42
+msgid "Magic block"
+msgstr ""
+
+#: src/object/particlesystem.hpp:54
+msgid "Particle system"
+msgstr ""
+
+#: src/object/particlesystem_interactive.hpp:49
+msgid "Interactive particle system"
+msgstr ""
+
 #: src/object/path.cpp:192
 msgid "Path Mode"
 msgstr ""
@@ -557,8 +870,36 @@ msgstr ""
 msgid "Running"
 msgstr ""
 
+#: src/object/platform.hpp:75
+msgid "Platform"
+msgstr ""
+
+#: src/object/pneumatic_platform.hpp:38
+msgid "Pneumatic platform"
+msgstr ""
+
 #: src/object/powerup.cpp:212
 msgid "Disable gravity"
+msgstr ""
+
+#: src/object/powerup.hpp:37
+msgid "Power up"
+msgstr ""
+
+#: src/object/pushbutton.hpp:36 src/trigger/scripttrigger.cpp:79
+msgid "Button"
+msgstr ""
+
+#: src/object/rain_particle_system.hpp:41
+msgid "Rain particles"
+msgstr ""
+
+#: src/object/rock.hpp:42
+msgid "Rock"
+msgstr ""
+
+#: src/object/rusty_trampoline.hpp:44
+msgid "Rusty trampoline"
 msgstr ""
 
 #: src/object/scripted_object.cpp:65
@@ -569,8 +910,24 @@ msgstr ""
 msgid "Visible"
 msgstr ""
 
+#: src/object/scripted_object.hpp:62
+msgid "Scripted object"
+msgstr ""
+
+#: src/object/snow_particle_system.hpp:41
+msgid "Snow particles"
+msgstr ""
+
+#: src/object/spotlight.hpp:43
+msgid "Spotlight"
+msgstr ""
+
 #: src/object/thunderstorm.cpp:65
 msgid "Interval"
+msgstr ""
+
+#: src/object/thunderstorm.hpp:84
+msgid "Thunderstorm"
 msgstr ""
 
 #: src/object/tilemap.cpp:211
@@ -593,12 +950,32 @@ msgstr ""
 msgid "tint"
 msgstr ""
 
+#: src/object/tilemap.hpp:44
+msgid "Tile map"
+msgstr ""
+
+#: src/object/torch.hpp:40
+msgid "Torch"
+msgstr ""
+
 #: src/object/trampoline.cpp:144
 msgid "Portable"
 msgstr ""
 
+#: src/object/trampoline.hpp:42
+msgid "Trampoline"
+msgstr ""
+
+#: src/object/unstable_tile.hpp:39
+msgid "Unstable tile"
+msgstr ""
+
 #: src/object/weak_block.cpp:209
 msgid "Linked"
+msgstr ""
+
+#: src/object/weak_block.hpp:41
+msgid "Weak block"
 msgstr ""
 
 #: src/object/wind.cpp:64
@@ -615,6 +992,10 @@ msgstr ""
 
 #: src/object/wind.cpp:70
 msgid "Blowing"
+msgstr ""
+
+#: src/object/wind.hpp:63
+msgid "Wind"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:78
@@ -788,6 +1169,10 @@ msgstr ""
 
 #: src/supertux/direction.cpp:55
 msgid "down"
+msgstr ""
+
+#: src/supertux/game_object.hpp:70
+msgid "Unknown object"
 msgstr ""
 
 #: src/supertux/levelintro.cpp:120
@@ -1618,10 +2003,6 @@ msgstr ""
 
 #: src/trigger/scripttrigger.cpp:74
 msgid "Script trigger"
-msgstr ""
-
-#: src/trigger/scripttrigger.cpp:79
-msgid "Button"
 msgstr ""
 
 #: src/trigger/secretarea_trigger.cpp:50 src/trigger/secretarea_trigger.cpp:60
