@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-23 17:32+0200\n"
+"POT-Creation-Date: 2016-08-03 20:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgid "Music, Level Design"
 msgstr ""
 
 #: data//credits.stxt:37 data//credits.stxt:137 data//credits.stxt:142
-#: data//credits.stxt:191 data//credits.stxt:251
+#: data//credits.stxt:191 data//credits.stxt:256
 msgid "Graphics"
 msgstr ""
 
@@ -51,7 +51,7 @@ msgid "Programming, Documentation"
 msgstr ""
 
 #: data//credits.stxt:67 data//credits.stxt:77 data//credits.stxt:82
-#: data//credits.stxt:107 data//credits.stxt:247 data//credits.stxt:259
+#: data//credits.stxt:107 data//credits.stxt:252 data//credits.stxt:264
 msgid "Programming"
 msgstr ""
 
@@ -148,311 +148,315 @@ msgstr ""
 msgid "New menu code"
 msgstr ""
 
-#: data//credits.stxt:242
+#: data//credits.stxt:241
+msgid "Level improvements"
+msgstr ""
+
+#: data//credits.stxt:247
 msgid "Milestone 1 contributions by..."
 msgstr ""
 
-#: data//credits.stxt:255 data//credits.stxt:263
+#: data//credits.stxt:260 data//credits.stxt:268
 msgid "Contrib Programming"
 msgstr ""
 
-#: data//credits.stxt:267
+#: data//credits.stxt:272
 msgid "Programming, Previous Maintainer"
 msgstr ""
 
-#: data//credits.stxt:272
+#: data//credits.stxt:277
 msgid "Additional Music"
 msgstr ""
 
-#: data//credits.stxt:277
+#: data//credits.stxt:282
 msgid "\"Mortimers Chipdisko\" by"
 msgstr ""
 
-#: data//credits.stxt:286
+#: data//credits.stxt:291
 msgid "\"Salsa Con Carne\" by"
 msgstr ""
 
-#: data//credits.stxt:294 data//credits.stxt:346
+#: data//credits.stxt:299 data//credits.stxt:351
 msgid "remixed by"
 msgstr ""
 
-#: data//credits.stxt:303
+#: data//credits.stxt:308
 msgid "\"voc songs\" by"
 msgstr ""
 
-#: data//credits.stxt:312
+#: data//credits.stxt:317
 msgid "\"clavelian_march\" by"
 msgstr ""
 
-#: data//credits.stxt:321
+#: data//credits.stxt:326
 msgid "Excerpts from the Giana Sisters"
 msgstr ""
 
-#: data//credits.stxt:325
+#: data//credits.stxt:330
 msgid "Soundtrack used with kind permission"
 msgstr ""
 
-#: data//credits.stxt:329
+#: data//credits.stxt:334
 msgid "from"
 msgstr ""
 
-#: data//credits.stxt:338
+#: data//credits.stxt:343
 msgid "\"Airship song\" (orchestral remix) by"
 msgstr ""
 
-#: data//credits.stxt:355
+#: data//credits.stxt:360
 msgid "\"Battle Theme\" by"
 msgstr ""
 
-#: data//credits.stxt:364
+#: data//credits.stxt:369
 msgid "\"SuperTux christmas theme\""
 msgstr ""
 
-#: data//credits.stxt:368
+#: data//credits.stxt:373
 msgid "original by"
 msgstr ""
 
-#: data//credits.stxt:377
+#: data//credits.stxt:382
 msgid "arranged by"
 msgstr ""
 
-#: data//credits.stxt:386
+#: data//credits.stxt:391
 msgid "\"halloween_1.ogg\" by"
 msgstr ""
 
-#: data//credits.stxt:395
+#: data//credits.stxt:400
 msgid "\"Forest Prophecy reEducated\" (forest_theme.ogg) by"
 msgstr ""
 
-#: data//credits.stxt:404
+#: data//credits.stxt:409
 msgid "Sound"
 msgstr ""
 
-#: data//credits.stxt:475
+#: data//credits.stxt:480
 msgid "Voice Acting"
 msgstr ""
 
-#: data//credits.stxt:506
+#: data//credits.stxt:511
 msgid "Localization"
 msgstr ""
 
-#: data//credits.stxt:511 data//credits.stxt:646
+#: data//credits.stxt:516 data//credits.stxt:651
 msgid "Danish"
 msgstr ""
 
-#: data//credits.stxt:516
+#: data//credits.stxt:521
 msgid "Vietnamese"
 msgstr ""
 
-#: data//credits.stxt:521 data//credits.stxt:602 data//credits.stxt:610
-#: data//credits.stxt:702 data//credits.stxt:718 data//credits.stxt:754
-#: data//credits.stxt:762 data//credits.stxt:770 data//credits.stxt:850
+#: data//credits.stxt:526 data//credits.stxt:607 data//credits.stxt:615
+#: data//credits.stxt:707 data//credits.stxt:723 data//credits.stxt:759
+#: data//credits.stxt:767 data//credits.stxt:775 data//credits.stxt:855
 msgid "French"
 msgstr ""
 
-#: data//credits.stxt:526 data//credits.stxt:561 data//credits.stxt:626
-#: data//credits.stxt:698 data//credits.stxt:798 data//credits.stxt:838
+#: data//credits.stxt:531 data//credits.stxt:566 data//credits.stxt:631
+#: data//credits.stxt:703 data//credits.stxt:803 data//credits.stxt:843
 msgid "German"
 msgstr ""
 
-#: data//credits.stxt:531 data//credits.stxt:606 data//credits.stxt:842
+#: data//credits.stxt:536 data//credits.stxt:611 data//credits.stxt:847
 msgid "Russian"
 msgstr ""
 
-#: data//credits.stxt:536
+#: data//credits.stxt:541
 msgid "Albanese"
 msgstr ""
 
-#: data//credits.stxt:541 data//credits.stxt:566 data//credits.stxt:578
+#: data//credits.stxt:546 data//credits.stxt:571 data//credits.stxt:583
 msgid "Castilian Spanish"
 msgstr ""
 
-#: data//credits.stxt:546 data//credits.stxt:574 data//credits.stxt:622
-#: data//credits.stxt:774 data//credits.stxt:806 data//credits.stxt:854
+#: data//credits.stxt:551 data//credits.stxt:579 data//credits.stxt:627
+#: data//credits.stxt:779 data//credits.stxt:811 data//credits.stxt:859
 msgid "Hungarian"
 msgstr ""
 
-#: data//credits.stxt:551 data//credits.stxt:630 data//credits.stxt:666
+#: data//credits.stxt:556 data//credits.stxt:635 data//credits.stxt:671
 msgid "Spanish"
 msgstr ""
 
-#: data//credits.stxt:556 data//credits.stxt:582 data//credits.stxt:834
+#: data//credits.stxt:561 data//credits.stxt:587 data//credits.stxt:839
 msgid "Catalan"
 msgstr ""
 
-#: data//credits.stxt:570
+#: data//credits.stxt:575
 msgid "Slovenian"
 msgstr ""
 
-#: data//credits.stxt:586
+#: data//credits.stxt:591
 msgid "Mandarin"
 msgstr ""
 
-#: data//credits.stxt:590 data//credits.stxt:662 data//credits.stxt:690
+#: data//credits.stxt:595 data//credits.stxt:667 data//credits.stxt:695
 msgid "European Portuguese"
 msgstr ""
 
-#: data//credits.stxt:594
+#: data//credits.stxt:599
 msgid "Romanian"
 msgstr ""
 
-#: data//credits.stxt:598 data//credits.stxt:818
+#: data//credits.stxt:603 data//credits.stxt:823
 msgid "Dutch"
 msgstr ""
 
-#: data//credits.stxt:614 data//credits.stxt:706 data//credits.stxt:846
+#: data//credits.stxt:619 data//credits.stxt:711 data//credits.stxt:851
 msgid "Turkish"
 msgstr ""
 
-#: data//credits.stxt:618
+#: data//credits.stxt:623
 msgid "European/Brazilian Portuguese"
 msgstr ""
 
-#: data//credits.stxt:634 data//credits.stxt:650 data//credits.stxt:654
-#: data//credits.stxt:722 data//credits.stxt:826
+#: data//credits.stxt:639 data//credits.stxt:655 data//credits.stxt:659
+#: data//credits.stxt:727 data//credits.stxt:831
 msgid "Czech"
 msgstr ""
 
-#: data//credits.stxt:638 data//credits.stxt:758
+#: data//credits.stxt:643 data//credits.stxt:763
 msgid "Nepali"
 msgstr ""
 
-#: data//credits.stxt:642 data//credits.stxt:726 data//credits.stxt:742
-#: data//credits.stxt:766
+#: data//credits.stxt:647 data//credits.stxt:731 data//credits.stxt:747
+#: data//credits.stxt:771
 msgid "Brazilian Portuguese"
 msgstr ""
 
-#: data//credits.stxt:658 data//credits.stxt:670
+#: data//credits.stxt:663 data//credits.stxt:675
 msgid "Italian"
 msgstr ""
 
-#: data//credits.stxt:674
+#: data//credits.stxt:679
 msgid "Estonian"
 msgstr ""
 
-#: data//credits.stxt:678 data//credits.stxt:682 data//credits.stxt:714
-#: data//credits.stxt:810
+#: data//credits.stxt:683 data//credits.stxt:687 data//credits.stxt:719
+#: data//credits.stxt:815
 msgid "Polish"
 msgstr ""
 
-#: data//credits.stxt:686
+#: data//credits.stxt:691
 msgid "French/Esperanto"
 msgstr ""
 
-#: data//credits.stxt:694 data//credits.stxt:814
+#: data//credits.stxt:699 data//credits.stxt:819
 msgid "Ukrainian"
 msgstr ""
 
-#: data//credits.stxt:710
+#: data//credits.stxt:715
 msgid "Breton"
 msgstr ""
 
-#: data//credits.stxt:730 data//credits.stxt:782
+#: data//credits.stxt:735 data//credits.stxt:787
 msgid "Greek"
 msgstr ""
 
-#: data//credits.stxt:734 data//credits.stxt:750
-msgid "Norwegian"
+#: data//credits.stxt:739 data//credits.stxt:755
+msgid "Norwegian Bokmål"
 msgstr ""
 
-#: data//credits.stxt:738
+#: data//credits.stxt:743
 msgid "Swedish"
 msgstr ""
 
-#: data//credits.stxt:746 data//credits.stxt:794
+#: data//credits.stxt:751 data//credits.stxt:799
 msgid "Finnish"
 msgstr ""
 
-#: data//credits.stxt:778
+#: data//credits.stxt:783
 msgid "Serbian"
 msgstr ""
 
-#: data//credits.stxt:786
+#: data//credits.stxt:791
 msgid "Japanese"
 msgstr ""
 
-#: data//credits.stxt:790
+#: data//credits.stxt:795
 msgid "Simplified Chinese"
 msgstr ""
 
-#: data//credits.stxt:802
+#: data//credits.stxt:807
 msgid "Lithuanian"
 msgstr ""
 
-#: data//credits.stxt:822
+#: data//credits.stxt:827
 msgid "Belarusian"
 msgstr ""
 
-#: data//credits.stxt:830
+#: data//credits.stxt:835
 msgid "Bulgarian"
 msgstr ""
 
-#: data//credits.stxt:860
+#: data//credits.stxt:865
 msgid "Thanks to"
 msgstr ""
 
-#: data//credits.stxt:865
+#: data//credits.stxt:870
 msgid "Creator of Tux, the Linux penguin"
 msgstr ""
 
-#: data//credits.stxt:869
+#: data//credits.stxt:874
 msgid "SDL, OpenAL and OpenGL"
 msgstr ""
 
-#: data//credits.stxt:870
+#: data//credits.stxt:875
 msgid ""
 "For making such a great gaming experience\n"
 "        possible on Linux"
 msgstr ""
 
-#: data//credits.stxt:877
+#: data//credits.stxt:882
 msgid "Contact"
 msgstr ""
 
-#: data//credits.stxt:882
+#: data//credits.stxt:887
 msgid "Visit our webpage at"
 msgstr ""
 
-#: data//credits.stxt:891
+#: data//credits.stxt:896
 msgid "Or visit us directly at IRC:"
 msgstr ""
 
-#: data//credits.stxt:895
+#: data//credits.stxt:900
 msgid "#supertux at webchat.freenode.net"
 msgstr ""
 
-#: data//credits.stxt:900
+#: data//credits.stxt:905
 msgid "Or at our Forum:"
 msgstr ""
 
-#: data//credits.stxt:909
+#: data//credits.stxt:914
 msgid "Comments, ideas and suggestions"
 msgstr ""
 
-#: data//credits.stxt:913
+#: data//credits.stxt:918
 msgid "go to our mailing list"
 msgstr ""
 
-#: data//credits.stxt:924
+#: data//credits.stxt:929
 msgid "Want to help…"
 msgstr ""
 
-#: data//credits.stxt:929
+#: data//credits.stxt:934
 msgid "…with localization?"
 msgstr ""
 
-#: data//credits.stxt:939
+#: data//credits.stxt:944
 msgid "…with something else?"
 msgstr ""
 
-#: data//credits.stxt:950
+#: data//credits.stxt:955
 msgid "Thank you for"
 msgstr ""
 
-#: data//credits.stxt:954
+#: data//credits.stxt:959
 msgid "playing"
 msgstr ""
 
-#: data//credits.stxt:966
+#: data//credits.stxt:971
 msgid "Penny awaits you in Milestone 3!"
 msgstr ""

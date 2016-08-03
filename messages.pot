@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-23 18:05+0200\n"
+"POT-Creation-Date: 2016-08-03 20:33+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,35 +65,35 @@ msgstr ""
 msgid "Dart trap"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:374
+#: src/badguy/dispenser.cpp:383
 msgid "Cycle"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:376
+#: src/badguy/dispenser.cpp:385
 msgid "Random"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:378
+#: src/badguy/dispenser.cpp:387
 msgid "Enemies"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:381
+#: src/badguy/dispenser.cpp:390
 msgid "Type"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:382
+#: src/badguy/dispenser.cpp:391
 msgid "dropper"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:383
+#: src/badguy/dispenser.cpp:392
 msgid "rocket launcher"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:384
+#: src/badguy/dispenser.cpp:393
 msgid "cannon"
 msgstr ""
 
-#: src/badguy/dispenser.cpp:385
+#: src/badguy/dispenser.cpp:394
 msgid "invisible"
 msgstr ""
 
@@ -117,7 +117,7 @@ msgstr ""
 msgid "Flying snowball"
 msgstr ""
 
-#: src/badguy/ghostflame.hpp:34
+#: src/badguy/ghostflame.hpp:35
 msgid "Ghost flame"
 msgstr ""
 
@@ -133,7 +133,7 @@ msgstr ""
 msgid "Haywire"
 msgstr ""
 
-#: src/badguy/iceflame.hpp:37
+#: src/badguy/iceflame.hpp:38
 msgid "Ice flame"
 msgstr ""
 
@@ -161,11 +161,11 @@ msgstr ""
 msgid "Live fire"
 msgstr ""
 
-#: src/badguy/livefire.hpp:63
+#: src/badguy/livefire.hpp:66
 msgid "Sleeping live fire"
 msgstr ""
 
-#: src/badguy/livefire.hpp:74
+#: src/badguy/livefire.hpp:80
 msgid "Dormant live fire"
 msgstr ""
 
@@ -185,7 +185,7 @@ msgstr ""
 msgid "Mr. Ice Block"
 msgstr ""
 
-#: src/badguy/mriceblock.hpp:82
+#: src/badguy/mriceblock.hpp:85
 msgid "Smart Block"
 msgstr ""
 
@@ -281,17 +281,17 @@ msgstr ""
 
 #: src/badguy/willowisp.cpp:297 src/editor/worldmap_objects.cpp:244
 #: src/supertux/game_object.cpp:122 src/supertux/menu/editor_level_menu.cpp:37
-#: src/supertux/menu/editor_levelset_menu.cpp:39
+#: src/supertux/menu/editor_levelset_menu.cpp:56
 #: src/supertux/menu/editor_new_levelset_menu.cpp:42
-#: src/supertux/menu/editor_sector_menu.cpp:39 src/trigger/climbable.cpp:73
+#: src/supertux/menu/editor_sector_menu.cpp:40 src/trigger/climbable.cpp:73
 #: src/trigger/door.cpp:78 src/trigger/scripttrigger.cpp:75
 #: src/trigger/secretarea_trigger.cpp:74 src/trigger/sequence_trigger.cpp:73
 #: src/trigger/switch.cpp:61
 msgid "Name"
 msgstr ""
 
-#: src/badguy/willowisp.cpp:299 src/editor/layers_gui.cpp:213
-#: src/supertux/menu/editor_sector_menu.cpp:37 src/trigger/door.cpp:79
+#: src/badguy/willowisp.cpp:299 src/editor/layers_gui.cpp:218
+#: src/supertux/menu/editor_sector_menu.cpp:38 src/trigger/door.cpp:79
 msgid "Sector"
 msgstr ""
 
@@ -385,11 +385,11 @@ msgstr ""
 #: src/gui/menu_color.cpp:38 src/gui/menu_script.cpp:51
 #: src/supertux/menu/addon_menu.cpp:409
 #: src/supertux/menu/editor_level_menu.cpp:48
-#: src/supertux/menu/editor_level_select_menu.cpp:101
-#: src/supertux/menu/editor_levelset_menu.cpp:50
-#: src/supertux/menu/editor_levelset_menu.cpp:73
+#: src/supertux/menu/editor_level_select_menu.cpp:100
+#: src/supertux/menu/editor_levelset_menu.cpp:69
+#: src/supertux/menu/editor_levelset_menu.cpp:86
 #: src/supertux/menu/editor_new_levelset_menu.cpp:45
-#: src/supertux/menu/editor_sector_menu.cpp:46
+#: src/supertux/menu/editor_sector_menu.cpp:56
 msgid "OK"
 msgstr ""
 
@@ -484,7 +484,7 @@ msgid "Show message"
 msgstr ""
 
 #: src/editor/worldmap_objects.cpp:338 src/object/bonus_block.cpp:180
-#: src/object/ispy.cpp:70 src/object/powerup.cpp:210
+#: src/object/ispy.cpp:65 src/object/powerup.cpp:210
 #: src/object/pushbutton.cpp:51 src/trigger/scripttrigger.cpp:78
 #: src/trigger/secretarea_trigger.cpp:80
 msgid "Script"
@@ -540,15 +540,15 @@ msgstr ""
 msgid "Sound"
 msgstr ""
 
-#: src/object/ambient_sound.cpp:132 src/object/invisible_wall.cpp:43
-#: src/object/invisible_wall_REMOTE_34175.cpp:40 src/trigger/climbable.cpp:74
+#: src/object/ambient_sound.cpp:132 src/object/invisible_wall.cpp:45
+#: src/supertux/menu/editor_sector_menu.cpp:51 src/trigger/climbable.cpp:74
 #: src/trigger/scripttrigger.cpp:76 src/trigger/secretarea_trigger.cpp:75
 #: src/trigger/sequence_trigger.cpp:74
 msgid "Width"
 msgstr ""
 
-#: src/object/ambient_sound.cpp:133 src/object/invisible_wall.cpp:44
-#: src/object/invisible_wall_REMOTE_34175.cpp:41 src/trigger/climbable.cpp:75
+#: src/object/ambient_sound.cpp:133 src/object/invisible_wall.cpp:46
+#: src/supertux/menu/editor_sector_menu.cpp:52 src/trigger/climbable.cpp:75
 #: src/trigger/scripttrigger.cpp:77 src/trigger/secretarea_trigger.cpp:76
 #: src/trigger/sequence_trigger.cpp:75
 msgid "Height"
@@ -570,9 +570,8 @@ msgstr ""
 msgid "Ambient sound"
 msgstr ""
 
-#: src/object/background.cpp:164 src/object/gradient.cpp:132
-#: src/object/particlesystem.cpp:44
-#: src/object/particlesystem_interactive.cpp:148 src/object/tilemap.cpp:216
+#: src/object/background.cpp:164 src/object/gradient.cpp:133
+#: src/object/particlesystem.cpp:44 src/object/tilemap.cpp:220
 msgid "Z-pos"
 msgstr ""
 
@@ -592,11 +591,11 @@ msgstr ""
 msgid "Scroll speed y"
 msgstr ""
 
-#: src/object/background.cpp:173
+#: src/object/background.cpp:173 src/object/tilemap.cpp:217
 msgid "Speed x"
 msgstr ""
 
-#: src/object/background.cpp:174
+#: src/object/background.cpp:174 src/object/tilemap.cpp:218
 msgid "Speed y"
 msgstr ""
 
@@ -692,23 +691,23 @@ msgstr ""
 msgid "Brick"
 msgstr ""
 
-#: src/object/camera.cpp:140
+#: src/object/camera.cpp:141
 msgid "Mode"
 msgstr ""
 
-#: src/object/camera.cpp:141
+#: src/object/camera.cpp:142
 msgid "normal"
 msgstr ""
 
-#: src/object/camera.cpp:142
+#: src/object/camera.cpp:143
 msgid "auto scrolling"
 msgstr ""
 
-#: src/object/camera.cpp:143
+#: src/object/camera.cpp:144
 msgid "manual"
 msgstr ""
 
-#: src/object/camera.hpp:89
+#: src/object/camera.hpp:90
 msgid "Camera"
 msgstr ""
 
@@ -728,7 +727,7 @@ msgstr ""
 msgid "Cloud particles"
 msgstr ""
 
-#: src/object/coin.cpp:263 src/object/tilemap.cpp:219
+#: src/object/coin.cpp:263 src/object/tilemap.cpp:223
 msgid "Following path"
 msgstr ""
 
@@ -761,44 +760,44 @@ msgstr ""
 msgid "Ghost particles"
 msgstr ""
 
-#: src/object/gradient.cpp:125
+#: src/object/gradient.cpp:126
 msgid "Left Colour"
 msgstr ""
 
-#: src/object/gradient.cpp:126
+#: src/object/gradient.cpp:127
 msgid "Right Colour"
 msgstr ""
 
-#: src/object/gradient.cpp:128
+#: src/object/gradient.cpp:129
 msgid "Top Colour"
 msgstr ""
 
-#: src/object/gradient.cpp:129
+#: src/object/gradient.cpp:130
 msgid "Bottom Colour"
 msgstr ""
 
-#: src/object/gradient.cpp:133 src/supertux/direction.cpp:50
+#: src/object/gradient.cpp:134 src/supertux/direction.cpp:50
 #: src/worldmap/direction.cpp:81
 msgid "Direction"
 msgstr ""
 
-#: src/object/gradient.cpp:134
+#: src/object/gradient.cpp:135
 msgid "vertical"
 msgstr ""
 
-#: src/object/gradient.cpp:135
+#: src/object/gradient.cpp:136
 msgid "horizontal"
 msgstr ""
 
-#: src/object/gradient.cpp:136
+#: src/object/gradient.cpp:137
 msgid "vertical sector"
 msgstr ""
 
-#: src/object/gradient.cpp:137
+#: src/object/gradient.cpp:138
 msgid "horizontal sector"
 msgstr ""
 
-#: src/object/gradient.hpp:60
+#: src/object/gradient.hpp:61
 msgid "Gradient"
 msgstr ""
 
@@ -842,7 +841,7 @@ msgstr ""
 msgid "Particle system"
 msgstr ""
 
-#: src/object/particlesystem_interactive.hpp:49
+#: src/object/particlesystem_interactive.hpp:44
 msgid "Interactive particle system"
 msgstr ""
 
@@ -930,23 +929,23 @@ msgstr ""
 msgid "Thunderstorm"
 msgstr ""
 
-#: src/object/tilemap.cpp:211
+#: src/object/tilemap.cpp:213
 msgid "solid"
 msgstr ""
 
-#: src/object/tilemap.cpp:212
+#: src/object/tilemap.cpp:214
 msgid "width"
 msgstr ""
 
-#: src/object/tilemap.cpp:213
+#: src/object/tilemap.cpp:215
 msgid "height"
 msgstr ""
 
-#: src/object/tilemap.cpp:214
+#: src/object/tilemap.cpp:216
 msgid "alpha"
 msgstr ""
 
-#: src/object/tilemap.cpp:215
+#: src/object/tilemap.cpp:219
 msgid "tint"
 msgstr ""
 
@@ -998,154 +997,158 @@ msgstr ""
 msgid "Wind"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:78
+#: src/supertux/command_line_arguments.cpp:79
 #, c-format
 msgid "Usage: %s [OPTIONS] [LEVELFILE]"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:79
+#: src/supertux/command_line_arguments.cpp:80
 msgid "General Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:80
+#: src/supertux/command_line_arguments.cpp:81
 msgid "  -h, --help                   Show this help message and quit"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:81
+#: src/supertux/command_line_arguments.cpp:82
 msgid "  -v, --version                Show SuperTux version and quit"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:82
+#: src/supertux/command_line_arguments.cpp:83
 msgid "  --verbose                    Print verbose messages"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:83
+#: src/supertux/command_line_arguments.cpp:84
 msgid "  --debug                      Print extra verbose messages"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:84
-msgid "  --print-datadir              Print supertux's primary data directory."
-msgstr ""
-
 #: src/supertux/command_line_arguments.cpp:85
-msgid "Video Options:"
+msgid "  --print-datadir              Print SuperTux's primary data directory."
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:86
-msgid "  -f, --fullscreen             Run in fullscreen mode"
+msgid "Video Options:"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:87
-msgid "  -w, --window                 Run in window mode"
+msgid "  -f, --fullscreen             Run in fullscreen mode"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:88
-msgid "  -g, --geometry WIDTHxHEIGHT  Run SuperTux in given resolution"
+msgid "  -w, --window                 Run in window mode"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:89
-msgid "  -a, --aspect WIDTH:HEIGHT    Run SuperTux with given aspect ratio"
+msgid "  -g, --geometry WIDTHxHEIGHT  Run SuperTux in given resolution"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:90
-msgid "  -d, --default                Reset video settings to default values"
+msgid "  -a, --aspect WIDTH:HEIGHT    Run SuperTux with given aspect ratio"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:91
-msgid "  --renderer RENDERER          Use sdl, opengl, or auto to render"
+msgid "  -d, --default                Reset video settings to default values"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:92
-msgid "Audio Options:"
+msgid "  --renderer RENDERER          Use sdl, opengl, or auto to render"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:93
-msgid "  --disable-sound              Disable sound effects"
+msgid "Audio Options:"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:94
-msgid "  --disable-music              Disable music"
+msgid "  --disable-sound              Disable sound effects"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:95
-msgid "Game Options:"
+msgid "  --disable-music              Disable music"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:96
-msgid "  --show-fps                   Display framerate in levels"
+msgid "Game Options:"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:97
-msgid "  --no-show-fps                Do not display framerate in levels"
+msgid "  --edit-level                 Open given level in editor"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:98
-msgid "  --show-pos                   Display player's current position"
+msgid "  --show-fps                   Display framerate in levels"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:99
-msgid "  --no-show-pos                Do not display player's position"
+msgid "  --no-show-fps                Do not display framerate in levels"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:100
-msgid "  --developer                  Switch on developer feature"
+msgid "  --show-pos                   Display player's current position"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:101
-msgid "  -s, --debug-scripts          Enable script debugger."
+msgid "  --no-show-pos                Do not display player's position"
 msgstr ""
 
 #: src/supertux/command_line_arguments.cpp:102
+msgid "  --developer                  Switch on developer feature"
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:103
+msgid "  -s, --debug-scripts          Enable script debugger."
+msgstr ""
+
+#: src/supertux/command_line_arguments.cpp:104
 msgid ""
 "  --spawn-pos X,Y              Where in the level to spawn Tux. Only used if "
 "level is specified."
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:103
+#: src/supertux/command_line_arguments.cpp:105
 msgid "Demo Recording Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:104
+#: src/supertux/command_line_arguments.cpp:106
 msgid "  --record-demo FILE LEVEL     Record a demo to FILE"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:105
+#: src/supertux/command_line_arguments.cpp:107
 msgid "  --play-demo FILE LEVEL       Play a recorded demo"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:106
+#: src/supertux/command_line_arguments.cpp:108
 msgid "Directory Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:107
+#: src/supertux/command_line_arguments.cpp:109
 msgid ""
 "  --datadir DIR                Set the directory for the games datafiles"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:108
+#: src/supertux/command_line_arguments.cpp:110
 msgid ""
 "  --userdir DIR                Set the directory for user data (savegames, "
 "etc.)"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:109
+#: src/supertux/command_line_arguments.cpp:111
 msgid "Add-On Options:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:110
+#: src/supertux/command_line_arguments.cpp:112
 msgid "  --repository-url URL         Set the URL to the Add-On repository"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:111
+#: src/supertux/command_line_arguments.cpp:113
 msgid "Environment variables:"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:112
+#: src/supertux/command_line_arguments.cpp:114
 msgid ""
 "  SUPERTUX2_USER_DIR           Directory for user data (savegames, etc.)"
 msgstr ""
 
-#: src/supertux/command_line_arguments.cpp:113
+#: src/supertux/command_line_arguments.cpp:115
 msgid "  SUPERTUX2_DATA_DIR           Directory for the games datafiles"
 msgstr ""
 
@@ -1282,7 +1285,7 @@ msgstr ""
 #: src/supertux/menu/addon_menu.cpp:265 src/supertux/menu/cheat_menu.cpp:43
 #: src/supertux/menu/contrib_levelset_menu.cpp:69
 #: src/supertux/menu/contrib_menu.cpp:168
-#: src/supertux/menu/editor_level_select_menu.cpp:78
+#: src/supertux/menu/editor_level_select_menu.cpp:77
 #: src/supertux/menu/editor_levelset_select_menu.cpp:136
 #: src/supertux/menu/editor_new_levelset_menu.cpp:48
 #: src/supertux/menu/joystick_menu.cpp:98
@@ -1389,12 +1392,12 @@ msgid "Close"
 msgstr ""
 
 #: src/supertux/menu/editor_level_menu.cpp:35
-#: src/supertux/menu/editor_menu.cpp:50
+#: src/supertux/menu/editor_menu.cpp:55
 msgid "Worldmap properties"
 msgstr ""
 
 #: src/supertux/menu/editor_level_menu.cpp:35
-#: src/supertux/menu/editor_menu.cpp:50
+#: src/supertux/menu/editor_menu.cpp:55
 msgid "Level properties"
 msgstr ""
 
@@ -1418,43 +1421,49 @@ msgstr ""
 msgid "Target time"
 msgstr ""
 
-#: src/supertux/menu/editor_level_select_menu.cpp:76
+#: src/supertux/menu/editor_level_select_menu.cpp:75
 msgid "Create Level"
 msgstr ""
 
-#: src/supertux/menu/editor_level_select_menu.cpp:77
-#: src/supertux/menu/editor_levelset_menu.cpp:37
-#: src/supertux/menu/editor_menu.cpp:52
+#: src/supertux/menu/editor_level_select_menu.cpp:76
+#: src/supertux/menu/editor_levelset_menu.cpp:54
+#: src/supertux/menu/editor_menu.cpp:59
 msgid "Level subset properties"
 msgstr ""
 
-#: src/supertux/menu/editor_level_select_menu.cpp:99
+#: src/supertux/menu/editor_level_select_menu.cpp:98
 msgid ""
-"Share this level under license CC-BY-SA (advised).\n"
-"If you don't agree with this license, change it in level properties."
+"Share this level under license CC-BY-SA 4.0 International (advised).\n"
+"It allows modifications and redistribution by third-parties.\n"
+"If you don't agree with this license, change it in level properties.\n"
+"DISCLAIMER: The SuperTux authors take no responsibility for your choice of "
+"license."
 msgstr ""
 
-#: src/supertux/menu/editor_levelset_menu.cpp:40
+#: src/supertux/menu/editor_levelset_menu.cpp:57
 #: src/supertux/menu/editor_new_levelset_menu.cpp:43
 msgid "Description"
 msgstr ""
 
-#: src/supertux/menu/editor_levelset_menu.cpp:44
+#: src/supertux/menu/editor_levelset_menu.cpp:62
 msgid "Do not use worldmap"
 msgstr ""
 
-#: src/supertux/menu/editor_levelset_menu.cpp:45
+#: src/supertux/menu/editor_levelset_menu.cpp:63
 msgid "Edit worldmap"
 msgstr ""
 
-#: src/supertux/menu/editor_levelset_menu.cpp:47
+#: src/supertux/menu/editor_levelset_menu.cpp:65
 msgid "Create worldmap"
 msgstr ""
 
-#: src/supertux/menu/editor_levelset_menu.cpp:71
+#: src/supertux/menu/editor_levelset_menu.cpp:84
 msgid ""
-"Share this worldmap under license CC-BY-SA (advised).\n"
-"If you don't agree with this license, change it in level properties."
+"Share this worldmap under license CC-BY-SA 4.0 International (advised).\n"
+"It allows modifications and redistribution by third-parties.\n"
+"If you don't agree with this license, change it in level properties.\n"
+"DISCLAIMER: The SuperTux authors take no responsibility for your choice of "
+"license."
 msgstr ""
 
 #: src/supertux/menu/editor_levelset_select_menu.cpp:57
@@ -1471,57 +1480,61 @@ msgstr ""
 msgid "New level subset"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:35
+#: src/supertux/menu/editor_menu.cpp:37
 msgid "Level Editor"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:37
+#: src/supertux/menu/editor_menu.cpp:39
 msgid "Return to editor"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:38
+#: src/supertux/menu/editor_menu.cpp:40
 msgid "Save current level"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:41
+#: src/supertux/menu/editor_menu.cpp:43
 msgid "Test the level"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:44
+#: src/supertux/menu/editor_menu.cpp:47
 msgid "Edit another level"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:45
+#: src/supertux/menu/editor_menu.cpp:50
 msgid "Choose another level subset"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:47
+#: src/supertux/menu/editor_menu.cpp:52
 msgid "Show grid (F8)"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:48
+#: src/supertux/menu/editor_menu.cpp:53
 msgid "Show scroller (F9)"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:54
+#: src/supertux/menu/editor_menu.cpp:63
 msgid "Exit level editor"
 msgstr ""
 
-#: src/supertux/menu/editor_sector_menu.cpp:40
+#: src/supertux/menu/editor_sector_menu.cpp:41
 msgid "Initialization script"
 msgstr ""
 
-#: src/supertux/menu/editor_sector_menu.cpp:41
+#: src/supertux/menu/editor_sector_menu.cpp:42
 msgid "Ambient light"
 msgstr ""
 
-#: src/supertux/menu/editor_sector_menu.cpp:42
+#: src/supertux/menu/editor_sector_menu.cpp:43
 msgid "Gravity"
 msgstr ""
 
-#: src/supertux/menu/editor_sector_menu.cpp:44
+#: src/supertux/menu/editor_sector_menu.cpp:48
 #: src/supertux/menu/options_menu.cpp:211
 msgid "Music"
+msgstr ""
+
+#: src/supertux/menu/editor_sector_menu.cpp:53
+msgid "Resize"
 msgstr ""
 
 #: src/supertux/menu/editor_sectors_menu.cpp:36
