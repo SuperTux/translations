@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-03 20:33+0200\n"
+"POT-Creation-Date: 2016-08-03 20:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2084,4 +2084,31 @@ msgstr ""
 
 #: src/worldmap/worldmap.cpp:337
 msgid "<no title>"
+msgstr ""
+#: data//images/engine/editor/objects.stoi:4
+msgid "Hostile"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:132
+msgid "Projectiles"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:158
+msgid "Bosses"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:169
+msgid "Interactive"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:243
+msgid "Lightmap"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:260
+msgid "Ambient"
+msgstr ""
+
+#: data//images/engine/editor/objects.stoi:316
+msgid "Worldmap markers"
 msgstr ""
