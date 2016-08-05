@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-04 15:35+0200\n"
+"POT-Creation-Date: 2016-08-05 14:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -339,7 +339,7 @@ msgstr ""
 msgid "Joystick Mappings"
 msgstr ""
 
-#: src/editor/editor.cpp:343
+#: src/editor/editor.cpp:345
 msgid ""
 "Some obsolete add-ons are still active\n"
 "and might cause collisions with default Super Tux structure.\n"
@@ -347,23 +347,23 @@ msgid ""
 "Disabling these add-ons will not delete your game progress."
 msgstr ""
 
-#: src/editor/editor.cpp:346
+#: src/editor/editor.cpp:348
 msgid "Disable add-ons"
 msgstr ""
 
-#: src/editor/editor.cpp:351
+#: src/editor/editor.cpp:353
 msgid "Ignore (not advised)"
 msgstr ""
 
-#: src/editor/editor.cpp:355
+#: src/editor/editor.cpp:357
 msgid "Leave editor"
 msgstr ""
 
-#: src/editor/input_gui.cpp:116 src/supertux/menu/editor_tilegroup_menu.cpp:37
+#: src/editor/input_gui.cpp:117 src/supertux/menu/editor_tilegroup_menu.cpp:37
 msgid "Tilegroups"
 msgstr ""
 
-#: src/editor/input_gui.cpp:119
+#: src/editor/input_gui.cpp:120
 #: src/supertux/menu/editor_objectgroup_menu.cpp:38
 msgid "Objects"
 msgstr ""
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Bottom image"
 msgstr ""
 
-#: src/object/background.hpp:60
+#: src/object/background.hpp:60 data//images/tiles.strf:784
 msgid "Background"
 msgstr ""
 
@@ -2085,6 +2085,7 @@ msgstr ""
 #: src/worldmap/worldmap.cpp:337
 msgid "<no title>"
 msgstr ""
+
 #: data//images/engine/editor/objects.stoi:4
 msgid "Hostile"
 msgstr ""
@@ -2101,7 +2102,7 @@ msgstr ""
 msgid "Interactive"
 msgstr ""
 
-#: data//images/engine/editor/objects.stoi:243
+#: data//images/engine/editor/objects.stoi:243 data//images/tiles.strf:1131
 msgid "Lightmap"
 msgstr ""
 
@@ -2177,10 +2178,6 @@ msgstr ""
 msgid "Block"
 msgstr ""
 
-#: data//images/tiles.strf:784
-msgid "Background"
-msgstr ""
-
 #: data//images/tiles.strf:803
 msgid "Points"
 msgstr ""
@@ -2223,10 +2220,6 @@ msgstr ""
 
 #: data//images/tiles.strf:1106
 msgid "Cave background"
-msgstr ""
-
-#: data//images/tiles.strf:1131
-msgid "Lightmap"
 msgstr ""
 
 #: data//images/tiles.strf:1140
