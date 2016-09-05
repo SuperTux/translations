@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-05 16:43+0200\n"
+"POT-Creation-Date: 2016-09-05 17:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1520,7 +1520,7 @@ msgstr ""
 msgid "New level subset"
 msgstr ""
 
-#: src/supertux/menu/editor_menu.cpp:37
+#: src/supertux/menu/editor_menu.cpp:37 src/supertux/menu/main_menu.cpp:46
 msgid "Level Editor"
 msgstr ""
 
@@ -1862,10 +1862,6 @@ msgstr ""
 
 #: src/supertux/menu/main_menu.cpp:43 src/supertux/menu/world_set_menu.cpp:39
 msgid "Start Game"
-msgstr ""
-
-#: src/supertux/menu/main_menu.cpp:46
-msgid "Level editor"
 msgstr ""
 
 #: src/supertux/menu/main_menu.cpp:47
