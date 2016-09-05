@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-05 17:03+0200\n"
+"POT-Creation-Date: 2016-09-05 20:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgid "Dart trap"
 msgstr ""
 
 #: src/badguy/dispenser.cpp:381
-msgid "Cycle"
+msgid "Interval (seconds)"
 msgstr ""
 
 #: src/badguy/dispenser.cpp:383
@@ -417,7 +417,7 @@ msgid "Level"
 msgstr ""
 
 #: src/editor/worldmap_objects.cpp:108
-msgid "Extro script"
+msgid "Outro script"
 msgstr ""
 
 #: src/editor/worldmap_objects.cpp:109
@@ -660,19 +660,19 @@ msgid "coin"
 msgstr ""
 
 #: src/object/bonus_block.cpp:185
-msgid "egg or fire flower"
+msgid "Growth (fire flower)"
 msgstr ""
 
 #: src/object/bonus_block.cpp:186
-msgid "egg or ice flower"
+msgid "Growth (ice flower)"
 msgstr ""
 
 #: src/object/bonus_block.cpp:187
-msgid "egg or air flower"
+msgid "Growth (air flower)"
 msgstr ""
 
 #: src/object/bonus_block.cpp:188
-msgid "egg or earth flower"
+msgid "Growth (earth flower)"
 msgstr ""
 
 #: src/object/bonus_block.cpp:189
